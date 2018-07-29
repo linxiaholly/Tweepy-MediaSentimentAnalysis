@@ -1,0 +1,596 @@
+User,TweetID,Date,Tweet Text,Compound Score,Positive Score,Negative Score,Neutal Score,Tweets Ago
+nytimes,1023614173866012677,Sun Jul 29 17:00:11 +0000 2018,A Palestinian teenager jailed in Israel for kicking and slapping an Israeli soldier was released to a hero’s welcom… https://t.co/xPygRilTaF,-0.4939,0.0,0.158,0.842,1
+nytimes,1023613493931663360,Sun Jul 29 16:57:29 +0000 2018,"Muslim children were repeatedly warned about their clothing at a Delaware pool, leading to a mayoral apology and a… https://t.co/Tiv8eKlsGu",-0.2263,0.062,0.109,0.829,2
+nytimes,1023606634654908416,Sun Jul 29 16:30:14 +0000 2018,"“Seventeen years after 9/11, we still haven’t figured this out.” https://t.co/HImjaWhMHv",0.0,0.0,0.0,1.0,3
+nytimes,1023602832816128000,Sun Jul 29 16:15:07 +0000 2018,"For some, a proposed cap on services like Uber is a civil rights issue. “Race-based refusal is a serious issue amon… https://t.co/S6kLiZjIFY",0.296,0.12,0.062,0.817,4
+nytimes,1023599070148026369,Sun Jul 29 16:00:10 +0000 2018,Pressed at his 2006 hearing to express an opinion about whether the president could legally override the torture ba… https://t.co/7satPHbAvW,-0.5423,0.06,0.167,0.773,5
+nytimes,1023595287837851648,Sun Jul 29 15:45:08 +0000 2018,The Trump pick to lead the EPA's Superfund toxic waste program was Dow Chemical's lawyer during its own disputed di… https://t.co/xjIS08Okg1,-0.6369,0.0,0.215,0.785,6
+nytimes,1023591524376961025,Sun Jul 29 15:30:11 +0000 2018,"“So many people think they know me,” says Cynthia Nixon, the actress-turned-candidate for governor of New York, in… https://t.co/RUoaVUpx58",0.0,0.0,0.0,1.0,7
+nytimes,1023587717295296513,Sun Jul 29 15:15:03 +0000 2018,"For more than 2 decades, Jeff Loeffelholz was an understudy in ""Chicago."" Then he killed himself. Now the productio… https://t.co/eC3e2WKliD",-0.6705,0.0,0.2,0.8,8
+nytimes,1023587334799929346,Sun Jul 29 15:13:32 +0000 2018,"RT @NYTimesPR: Statement of A.G. Sulzberger, Publisher, The New York Times, in response to President Trump’s tweet about their meeting http…",0.0,0.0,0.0,1.0,9
+nytimes,1023583968644481024,Sun Jul 29 15:00:10 +0000 2018,"When it gets cold in Bangkok, pet owners dress their dogs in sweatshirts or, if they have the money, Burberry rainc… https://t.co/hybxIR6iej",0.0,0.0,0.0,1.0,10
+nytimes,1023581435863678976,Sun Jul 29 14:50:06 +0000 2018,"As millions of Venezuelans wage a daily fight for survival at home, others have found a safe haven for their money… https://t.co/dlKgR40AQQ",0.0772,0.123,0.111,0.766,11
+nytimes,1023578915430916096,Sun Jul 29 14:40:05 +0000 2018,"The comedy-destroying, soul-affirming art of Hannah Gadsby https://t.co/YIc9W6GXex https://t.co/T2fOvaHR5J",0.0,0.0,0.0,1.0,12
+nytimes,1023576416884064256,Sun Jul 29 14:30:09 +0000 2018,"These islands in the South Pacific are disappearing, but their inhabitants are doing everything they can to stay https://t.co/DAPrXjDrOt",0.0,0.0,0.0,1.0,13
+nytimes,1023573889006403584,Sun Jul 29 14:20:06 +0000 2018,A 60-year-old man fatally shot his father and stepmother in a nursing home in Texas https://t.co/8r0CatQ3E1,-0.6369,0.0,0.244,0.756,14
+nytimes,1023571358289145856,Sun Jul 29 14:10:03 +0000 2018,"Summer thrillers, a parody of smutty novels, a dark family memoir: Here are 10 new books we recommend this week https://t.co/BBboCB4D3F",0.3818,0.175,0.0,0.825,15
+nytimes,1023567595730071553,Sun Jul 29 13:55:06 +0000 2018,"RT @nytimesbusiness: An undeveloped, 157-acre hilltop plot of land is about to go on sale in Los Angeles. The asking price: $1 billion. htt…",0.0,0.0,0.0,1.0,16
+nytimes,1023561264965054465,Sun Jul 29 13:29:57 +0000 2018,"Some argue that comedy is broken. But Mike Birbiglia, Kate Berlant, Maria Bamford, Sacha Baron Cohen and Hannah Gad… https://t.co/4qufrZcz7H",-0.4588,0.1,0.22,0.68,17
+nytimes,1023556773872066561,Sun Jul 29 13:12:06 +0000 2018,How to rekindle a friendship that has faded — and what to do if things don't go as you hoped https://t.co/IgsEpGPmYL,0.6705,0.244,0.0,0.756,18
+nytimes,1023552474727231488,Sun Jul 29 12:55:01 +0000 2018,"After 18 months of bruising White House conflicts and bitter criticism, Jared Kushner and Ivanka Trump as comfortab… https://t.co/iWw0brStrR",-0.8074,0.0,0.342,0.658,19
+nytimes,1023552286264647680,Sun Jul 29 12:54:16 +0000 2018,Bush Claimed Power to Override a Torture Ban. What Did Brett Kavanaugh Think About That? https://t.co/DRxTbZslMb,-0.8176,0.0,0.366,0.634,20
+nytimes,1023468444753293312,Sun Jul 29 07:21:07 +0000 2018,"Bangkok Dispatch: Seeking ‘a Good Afterlife,’ and Not Just for Humans https://t.co/9pC6ggd2K6",0.4404,0.209,0.0,0.791,21
+nytimes,1023468181049024512,Sun Jul 29 07:20:04 +0000 2018,Many gravely ill people often perk up right before dying. Nobody knows why. https://t.co/ieQVY9xqmi,-0.6486,0.0,0.306,0.694,22
+nytimes,1023463559337070597,Sun Jul 29 07:01:42 +0000 2018,RT @NYTScience: Scott Pruitt's former deputy is now in charge at the EPA. He's taking a more disciplined approach to dismantling environmen…,0.0,0.0,0.0,1.0,23
+nytimes,1023458892737589249,Sun Jul 29 06:43:09 +0000 2018,"RT @NYTSports: Missy Franklin, once the seemingly always exuberant girl so many predicted would be the next Michael Phelps, now finds herse…",0.5859,0.153,0.0,0.847,24
+nytimes,1023454824363372544,Sun Jul 29 06:26:59 +0000 2018,"RT @matthew_ruby: ""It’s kind of like how snowboarding they coined the term frontside indy, which doesn’t exist in skateboarding, and it’s s…",0.2975,0.095,0.0,0.905,25
+nytimes,1023450312860950528,Sun Jul 29 06:09:04 +0000 2018,Several key political parties in Pakistan are paving the way for Imran Khan to form a majority in the country's par… https://t.co/zLNJ7JbMMr,0.4019,0.119,0.0,0.881,26
+nytimes,1023445337648898049,Sun Jul 29 05:49:17 +0000 2018,"RT @nytimesbooks: ""This month I’ve committed to only reading books about shipwrecks where people had to eat somebody."" https://t.co/QsCO4zW…",0.2732,0.104,0.0,0.896,27
+nytimes,1023441159228665856,Sun Jul 29 05:32:41 +0000 2018,"Is it possible to be sexual, but to not be seen as an object? In her video “Girlfriend,” Héloïse Letissier — her bo… https://t.co/dJqG53Md4N",0.0,0.0,0.0,1.0,28
+nytimes,1023436915813638144,Sun Jul 29 05:15:49 +0000 2018,"""For an hour on a weekend afternoon, I didn’t think of anything except the microcosmic forest in front of me"": Insi… https://t.co/vhKQZfjLuW",0.0,0.0,0.0,1.0,29
+nytimes,1023432596355788802,Sun Jul 29 04:58:40 +0000 2018,RT @nytimesbusiness: It's called dark money for a reason: It's hard to trace. But millions of it were spent to kill the Affordable Care Act…,-0.4404,0.106,0.201,0.693,30
+nytimes,1023428298624380928,Sun Jul 29 04:41:35 +0000 2018,"RT @nytopinion: ""The effect of Agent Orange on my children has broken my heart. One was born with a cleft palate and her jaw doesn’t line u…",-0.4767,0.0,0.11,0.89,31
+nytimes,1023424148448718848,Sun Jul 29 04:25:05 +0000 2018,"For almost 20 years, a pedestrian zone in Hong Kong has been a hub for street performers. Now the government will c… https://t.co/fCXKT4tGZG",0.0,0.0,0.0,1.0,32
+nytimes,1023423873700835328,Sun Jul 29 04:24:00 +0000 2018,"Cambodia Votes for a Leader, With the Result Predetermined by One https://t.co/fRoPxK1cpn",0.0,0.0,0.0,1.0,33
+nytimes,1023418493188882432,Sun Jul 29 04:02:37 +0000 2018,"For a delicious way to eat summer tomatoes, try this garlicky tomato toast recipe https://t.co/GJpYDMEhcf https://t.co/Jf88OOH7ZU",0.5719,0.209,0.0,0.791,34
+nytimes,1023414178873323520,Sun Jul 29 03:45:29 +0000 2018,Millions of smart TVs are tracking everything you watch for the sake of advertisers. If that doesn’t sit right with… https://t.co/sRIEw3AohN,0.4019,0.119,0.0,0.881,35
+nytimes,1023409482414673920,Sun Jul 29 03:26:49 +0000 2018,You should never skip the opening credits. @poniewozik explains why.  https://t.co/1xUQE8QfV0,0.3612,0.2,0.0,0.8,36
+nytimes,1023404793426006016,Sun Jul 29 03:08:11 +0000 2018,It's not your just imagination: Netflix is stockpiling original programming. Here are 9 things worth checking out. https://t.co/7UVjHkX3vV,0.4939,0.219,0.0,0.781,37
+nytimes,1023399981137514496,Sun Jul 29 02:49:04 +0000 2018,"A $50 million space station in Argentina is a symbol of China’s push to mold Latin America, often in ways that unde… https://t.co/MLNyquNNzn",0.0,0.0,0.0,1.0,38
+nytimes,1023397708994949120,Sun Jul 29 02:40:02 +0000 2018,"RT @maggieNYT: For months, Trump's relationship to Kushner seemed tense. Trump ""could've had Tom Brady"" as a son-in-law, he told several pe…",-0.34,0.0,0.107,0.893,39
+nytimes,1023390668725604352,Sun Jul 29 02:12:03 +0000 2018,"RT @nytimesarts: For more than two decades, Jeff Loeffelholz was an understudy at ""Chicago."" Then he killed himself. Now the production and…",-0.6705,0.0,0.176,0.824,40
+nytimes,1023275395771256832,Sat Jul 28 18:34:00 +0000 2018,"A dam collapsed in Laos and led to the deaths of dozens, with many still missing. Our correspondent traveled to Lao… https://t.co/AwDE6R5sw0",-0.5106,0.0,0.185,0.815,41
+nytimes,1023273868486737921,Sat Jul 28 18:27:56 +0000 2018,"Extremists attacked a school for midwives in Afghanistan, killing 2 people https://t.co/3U7wTNVCkZ",-0.8126,0.0,0.481,0.519,42
+nytimes,1023269864734175232,Sat Jul 28 18:12:01 +0000 2018,"He was Dow Chemical's ""dioxin lawyer."" Now he's President Trump's pick to run the EPA's Superfund toxic cleanup pro… https://t.co/LPDNIlr9gc",0.0,0.0,0.0,1.0,43
+nytimes,1023267365272924160,Sat Jul 28 18:02:05 +0000 2018,A Turkish educator in Mongolia was briefly abducted on Friday. It appeared to be the latest episode of a global cam… https://t.co/ckI8SUEEd2,-0.5106,0.0,0.148,0.852,44
+nytimes,1023264846001913856,Sat Jul 28 17:52:05 +0000 2018,"Meet the Caramel Curves, New Orleans’s all-female motorcycle club. With stilettos and magenta-hued burnouts, they'r… https://t.co/KzI9CWIkoC",0.0,0.0,0.0,1.0,45
+nytimes,1023262332015783936,Sat Jul 28 17:42:05 +0000 2018,New Hampshire is 94% white. It is now trying to figure out how to change that. https://t.co/aVB7YkkKFD,0.0,0.0,0.0,1.0,46
+nytimes,1023259801239932929,Sat Jul 28 17:32:02 +0000 2018,"A woman in Spain went into hiding to avoid handing her children over to a man convicted of hitting her. Now, she is… https://t.co/I7pMY30145",-0.5267,0.0,0.18,0.82,47
+nytimes,1023258534417522690,Sat Jul 28 17:27:00 +0000 2018,"Since 2012, according to officials, there has not been a month in California without a wildfire burning — a stark c… https://t.co/w7eUsu2M8N",0.0,0.0,0.0,1.0,48
+nytimes,1023257297978646528,Sat Jul 28 17:22:05 +0000 2018,More women deserve statues in New York. Here are 10. https://t.co/eIwy7Cwv2G https://t.co/78hIIw7YG8,0.0,0.0,0.0,1.0,49
+nytimes,1023254781488455680,Sat Jul 28 17:12:05 +0000 2018,The Trump administration is pushing Afghan commanders to surrender rural and sparsely populated areas of the countr… https://t.co/RgFLE94P6o,0.0,0.0,0.0,1.0,50
+nytimes,1023252269842812928,Sat Jul 28 17:02:06 +0000 2018,"“It wasn’t ‘I’m racist and I want to glorify slavery,’” one Civil War re-enactor said. “Nobody really thought a lot… https://t.co/hdIgCrX5kC",-0.5994,0.179,0.283,0.538,51
+nytimes,1023249738785869824,Sat Jul 28 16:52:03 +0000 2018,"They disappointed people who thought they'd be a moderating influence.
+They faced news stories about their unpopula… https://t.co/X2QzqXzL38",-0.4767,0.0,0.162,0.838,52
+nytimes,1023248881868570624,Sat Jul 28 16:48:39 +0000 2018,"RT @maggieNYT: “Both husband and wife, like Mr. Trump, are said to hang on to grudges, but Mr. Kushner is far more transactional than his w…",0.1901,0.065,0.0,0.935,53
+nytimes,1023247228612292610,Sat Jul 28 16:42:04 +0000 2018,RT @nytimesworld: A space station built by the Chinese military in Argentina raises concerns that the base could enhance China’s intelligen…,0.0,0.0,0.0,1.0,54
+nytimes,1023244711379779586,Sat Jul 28 16:32:04 +0000 2018,"RT @nathanielpopper: Sex scandal toppled a Silicon Valley chief. Investors say, so what? The story of Mike Cagney and his loyal investors.…",0.0516,0.124,0.116,0.76,55
+nytimes,1023239687887101953,Sat Jul 28 16:12:07 +0000 2018,"Kenya Barris, the creator of ""black-ish,"" is parting ways with ABC Studios 3 years before his contract was set to e… https://t.co/rw410pxNGJ",0.0,0.0,0.0,1.0,56
+nytimes,1023237153155891201,Sat Jul 28 16:02:02 +0000 2018,He ate a meat pie with a knife and fork. Some Australians were scandalized. https://t.co/UlOFTh8WaY,0.0,0.0,0.0,1.0,57
+nytimes,1023234655049457664,Sat Jul 28 15:52:07 +0000 2018,"Kristina Jackson, a 22-year-old African-American truck driver: “People say to me, ‘You don’t look like a trucker.’… https://t.co/LBGRDFI2PJ",0.3612,0.143,0.0,0.857,58
+nytimes,1023232129189257216,Sat Jul 28 15:42:04 +0000 2018,South Korea is a country that has long worked too hard. Its leaders are trying to change that. https://t.co/A6Kg1LWsPY,-0.1027,0.0,0.076,0.924,59
+nytimes,1023229615920308224,Sat Jul 28 15:32:05 +0000 2018,"The race between Stacey Abrams and Brian Kemp will, regardless of outcome, determine what Georgia represents and ho… https://t.co/C02zlgcbmk",0.0,0.0,0.0,1.0,60
+nytimes,1023014430072815616,Sat Jul 28 01:17:01 +0000 2018,"RT @nytdavidbrooks: These days, I spend my mornings writing depressing columns about a political culture marred by distrust and my afternoo…",-0.6597,0.0,0.241,0.759,61
+nytimes,1023011015670288386,Sat Jul 28 01:03:27 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/jNVtVoMajk,0.0,0.0,0.0,1.0,62
+nytimes,1023006879511965696,Sat Jul 28 00:47:01 +0000 2018,"""In his hands he clutched, as if they were precious, two items that had been given to him and other migrants on the… https://t.co/IiQLMLrA59",0.5719,0.139,0.0,0.861,63
+nytimes,1023003485464346624,Sat Jul 28 00:33:32 +0000 2018,"1,387 nursing homes received just 1 out 5 stars for staffing levels in Medicare's new rankings https://t.co/XVvZF52bIy",0.0,0.0,0.0,1.0,64
+nytimes,1022999331308281859,Sat Jul 28 00:17:01 +0000 2018,"RT @CoralMDavenport: Top Trump officials are in a ""nuclear war"" over the President's desire to roll back climate-warming tailpipe pollution…",-0.1027,0.184,0.16,0.656,65
+nytimes,1022995933041229824,Sat Jul 28 00:03:31 +0000 2018,"The new premier of Ontario, Doug Ford, announced that he intended to reduce the size of Toronto’s elected governmen… https://t.co/EOEoUVb0rE",0.0,0.0,0.0,1.0,66
+nytimes,1022991297760714752,Fri Jul 27 23:45:06 +0000 2018,"Carrie Fisher, in previously recorded footage, Billy Dee Williams and Mark Hamill will be back in “Star Wars: Episo… https://t.co/ltTWSY0ECQ",-0.5574,0.0,0.159,0.841,67
+nytimes,1022987612481638401,Fri Jul 27 23:30:27 +0000 2018,"Her dead calf resting on her nose, an orca whale has swum in mourning for more than 3 days in the Pacific Northwest… https://t.co/ljD08tbzdh",-0.802,0.0,0.255,0.745,68
+nytimes,1022984243163615232,Fri Jul 27 23:17:04 +0000 2018,"RT @Julesm_b: ""It’s a year-round cycle now."" As Carr Fire Kills 2 in California, Firefighters Reflect on a Job Now ‘Twice as Violent.’ Terr…",-0.7096,0.0,0.237,0.763,69
+nytimes,1022981484540579840,Fri Jul 27 23:06:06 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/qIncFq5xop,0.0,0.0,0.0,1.0,70
+nytimes,1022977440736583680,Fri Jul 27 22:50:02 +0000 2018,How the largest lobbyist for the pharmaceutical industry in the U.S. is using “dark money” to support an advocacy g… https://t.co/nUxpRG5OFL,0.4019,0.119,0.0,0.881,71
+nytimes,1022974938674810880,Fri Jul 27 22:40:05 +0000 2018,"Even with all of the science available to explain the origin of an eclipse, superstitions persist. 
+
+""You can go to… https://t.co/gygtl6PNLJ",0.0,0.0,0.0,1.0,72
+nytimes,1022971649887543297,Fri Jul 27 22:27:01 +0000 2018,Fact check: President Trump's remarks on the economy https://t.co/xGxW9Ostcs,0.0,0.0,0.0,1.0,73
+nytimes,1022969439971692545,Fri Jul 27 22:18:14 +0000 2018,"The undocumented immigrants line up daily, newly released from detention, having had no time even to put the laces… https://t.co/kjKkVhGfIq",-0.5719,0.0,0.207,0.793,74
+nytimes,1022965365586968583,Fri Jul 27 22:02:03 +0000 2018,"BP said that it would buy an enormous portfolio covering 470,000 acres of shale oil and gas properties in Texas and… https://t.co/0D3NCG4mqM",0.0,0.0,0.0,1.0,75
+nytimes,1022961596556079109,Fri Jul 27 21:47:04 +0000 2018,Ian McKellen has returned to play King Lear in a far more intimate but fiercer production of Shakespeare’s play https://t.co/DfvRYWVDZF,0.5859,0.22,0.0,0.78,76
+nytimes,1022957828632395776,Fri Jul 27 21:32:06 +0000 2018,"A smaller number of companies control of a greater portion of TV shows and films, potentially altering where — and… https://t.co/2J1CzGYYOp",0.4215,0.192,0.0,0.808,77
+nytimes,1022954040307720192,Fri Jul 27 21:17:03 +0000 2018,RT @marclacey: We could tell you about the border or we could take you there. Prepare to be transported in this amazing @nytimes collaborat…,0.6705,0.164,0.0,0.836,78
+nytimes,1022950282723053569,Fri Jul 27 21:02:07 +0000 2018,We shadowed a superintendent in a New York City apartment complex to see what saving the nation’s largest public ho… https://t.co/GNDArU1ArI,0.0,0.0,0.0,1.0,79
+nytimes,1022948254869278720,Fri Jul 27 20:54:04 +0000 2018,"RT @kevinroose: Alex Jones was just banned from Facebook for 30 days. But his page admins can still post for him. By my count, he has appea…",-0.4588,0.0,0.103,0.897,80
+nytimes,1022674703822012416,Fri Jul 27 02:47:04 +0000 2018,"“Everybody was flabbergasted that a little girl like me could fly these big airplanes all by oneself,” Mary Ellis s… https://t.co/wH0oEOHP72",0.3008,0.105,0.0,0.895,81
+nytimes,1022670917137256449,Fri Jul 27 02:32:01 +0000 2018,"President Trump shelved his predecessor’s trade talks with Europe. Now, he wants to resume similar negotiations. https://t.co/P6aQNruCJb",0.0,0.0,0.0,1.0,82
+nytimes,1022669883006492672,Fri Jul 27 02:27:55 +0000 2018,"Remains believed to be those of American servicemen were flown out of North Korea, 65 years after the end of combat… https://t.co/jwDjZF0ksg",0.0,0.0,0.0,1.0,83
+nytimes,1022667148077031426,Fri Jul 27 02:17:02 +0000 2018,"RT @nytopinion: President Trump is more embroiled in commercial activities, from his hotel near the White House to business deals half a wo…",0.0,0.0,0.0,1.0,84
+nytimes,1022663371852865536,Fri Jul 27 02:02:02 +0000 2018,A man was charged with 5 counts of arson for a fire in Southern California that has prompted the evacuation of thou… https://t.co/vrEkwji9w1,-0.4939,0.0,0.189,0.811,85
+nytimes,1022659597407080449,Fri Jul 27 01:47:02 +0000 2018,"Here's a guide to watching Mars in opposition on Friday (and a blood moon /lunar eclipse if you're in Africa, the M… https://t.co/kJ7hlmDm4J",0.0,0.0,0.0,1.0,86
+nytimes,1022655832905981952,Fri Jul 27 01:32:05 +0000 2018,"In a statement, Twitter flatly rejected the claim made by Vice: “As we have said before, we do not ‘shadowban.'"" https://t.co/eMY7ilqLzl",-0.5106,0.0,0.148,0.852,87
+nytimes,1022652059395543040,Fri Jul 27 01:17:05 +0000 2018,RT @damiencave: What's it like moving to the U.S. after years in Australia's offshore detention system? I met Imran on Manus Island in Nove…,0.0,0.096,0.096,0.808,88
+nytimes,1022648271213395969,Fri Jul 27 01:02:02 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/50zrvAOu91,0.0,0.0,0.0,1.0,89
+nytimes,1022644510839459842,Fri Jul 27 00:47:05 +0000 2018,"Insulin may determine which ants become workers and which become queens, according to a new study https://t.co/AlXSDBmMWN",0.0,0.0,0.0,1.0,90
+nytimes,1022640270536568834,Fri Jul 27 00:30:14 +0000 2018,"It was the middle of the 19th century, and Edmonia Lewis, part West Indian, part Chippewa, had the audacity to be a… https://t.co/0Fty6tbF7i",0.0,0.0,0.0,1.0,91
+nytimes,1022636962971373571,Fri Jul 27 00:17:06 +0000 2018,RT @jimrutenberg: Fmr Observer editor/Kushner friend Ken Kurson was up for prestige federal post. Then FBI background check found a harassm…,0.4939,0.144,0.0,0.856,92
+nytimes,1022633179381985280,Fri Jul 27 00:02:04 +0000 2018,"A lot of artists talk about taking risks, but few mean it so literally as the South Korean artist Kyungah Ham, who… https://t.co/P0HPnIJJ1N",-0.1406,0.0,0.069,0.931,93
+nytimes,1022629407847051265,Thu Jul 26 23:47:05 +0000 2018,Education Secretary Betsy DeVos plans to eliminate regulations that forced for-profit colleges to prove they provid… https://t.co/JdwBrAeREX,-0.4588,0.0,0.158,0.842,94
+nytimes,1022626395191738368,Thu Jul 26 23:35:06 +0000 2018,"Breaking News: Federal authorities said they had reunited 1,442 more migrant children with their families, but hund… https://t.co/YjalpW7DD7",0.0,0.0,0.0,1.0,95
+nytimes,1022625632457502725,Thu Jul 26 23:32:04 +0000 2018,The organizer of the Fyre Festival pleaded guilty to charges he sold fictitious tickets to events like Coachella an… https://t.co/XkIroTHEjW,0.2023,0.214,0.184,0.602,96
+nytimes,1022621854169812994,Thu Jul 26 23:17:04 +0000 2018,"RT @monicadavey1: The judge in Larry Nassar’s case took an unusual approach, holding 7 days of hearings where young women told what had hap…",0.0,0.0,0.0,1.0,97
+nytimes,1022618082844594177,Thu Jul 26 23:02:04 +0000 2018,Robert Mueller is scrutinizing President Trump's tweets and negative statements about Jeff Sessions and James Comey… https://t.co/orVm8mfmLD,-0.5719,0.0,0.188,0.812,98
+nytimes,1022614061295517697,Thu Jul 26 22:46:06 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/t3yatcVmsG,0.0,0.0,0.0,1.0,99
+nytimes,1022610064010559488,Thu Jul 26 22:30:13 +0000 2018,A lawyer for Brock Turner argued that the former Stanford swimmer shouldn’t have been convicted of intending to com… https://t.co/rYCNUoGbaO,-0.3612,0.0,0.122,0.878,100
+BBCNews,1023616929989312512,Sun Jul 29 17:11:08 +0000 2018,"RT @5liveSport: Geraint Thomas 👏
+
+Six-time team pursuit world record holder ⏱️
+2008 - Olympic Gold - Team Pursuit 🥇
+2012 - Olympic Gold - T…",0.0,0.0,0.0,1.0,1
+BBCNews,1023616851123875840,Sun Jul 29 17:10:49 +0000 2018,"RT @BBCSport: Geraint Thomas has done it! 👏🏴󠁧󠁢󠁷󠁬󠁳󠁿
+
+He's become the first ever Welshman to win the Tour de France 👉 https://t.co/ZtkRdPtGio…",0.6239,0.17,0.0,0.83,2
+BBCNews,1023611756915183617,Sun Jul 29 16:50:35 +0000 2018,"RT @BBCSport: Less than 20km to go until Geraint Thomas wins the Tour de France for the first time! 👏
+
+Live 👉 https://t.co/ZtkRdPtGio https…",0.6114,0.16,0.0,0.84,3
+BBCNews,1023605278107987968,Sun Jul 29 16:24:50 +0000 2018,"Celebrating immigration through street art 🎨
+
+https://t.co/2802p2Qt9Y https://t.co/L5WoEj3sKd",0.5719,0.381,0.0,0.619,4
+BBCNews,1023599231569993729,Sun Jul 29 16:00:49 +0000 2018,"Lucy McHugh, 13, was stabbed to death https://t.co/T5WU4lkXU3",-0.7783,0.0,0.531,0.469,5
+BBCNews,1023598550452760578,Sun Jul 29 15:58:06 +0000 2018,Heart of Midlothian 5-0 Inverness Caledonian Thistle https://t.co/Hzovz7qaMi,0.0,0.0,0.0,1.0,6
+BBCNews,1023593444030275584,Sun Jul 29 15:37:49 +0000 2018,"RT @BBC_HaveYourSay: Are you at Camp Bestival today, or leaving now it's cancelled? 🌧️☔️🎤
+
+You can share your pics or videos via: yourpics@…",0.0516,0.087,0.079,0.833,7
+BBCNews,1023593396894674944,Sun Jul 29 15:37:37 +0000 2018,RT @BBCEngland: Camp Bestival music festival in Dorset has been cancelled due to heavy rain and high winds https://t.co/W9JaTsYjVU,0.296,0.144,0.09,0.766,8
+BBCNews,1023593305446252544,Sun Jul 29 15:37:16 +0000 2018,"RT @BBCSportWales: Geraint Thomas in the Tour de France's leader's yellow jersey is enjoying this!
+
+Follow it  👉 https://t.co/W7xJFWtjN9
+
+#…",0.5707,0.17,0.0,0.83,9
+BBCNews,1023591369061875712,Sun Jul 29 15:29:34 +0000 2018,Bank ram-raiders destroy Olney branch of Barclays https://t.co/Ggt5Cxokpk,-0.5423,0.0,0.333,0.667,10
+BBCNews,1023589111645515778,Sun Jul 29 15:20:36 +0000 2018,"🥊 A boxing class with a difference — there are no boys allowed. 👧
+
+https://t.co/MaPsBCSvLY https://t.co/FwoRD4vIXW",-0.296,0.0,0.18,0.82,11
+BBCNews,1023584717613015040,Sun Jul 29 15:03:08 +0000 2018,Hungarian Grand Prix: Lewis Hamilton wins in Hungary to extend title lead https://t.co/ezWOmvfGpd,0.8126,0.457,0.0,0.543,12
+BBCNews,1023583827061555201,Sun Jul 29 14:59:36 +0000 2018,RT @BBCSport: Lewis Hamilton won a tense strategic battle at the Hungarian Grand Prix. He heads into the break with a 24-point lead in the…,0.4019,0.218,0.163,0.619,13
+BBCNews,1023583763215929345,Sun Jul 29 14:59:21 +0000 2018,"RT @bbcf1: ""We came here knowing Ferrari would be really quick this weekend so to come out with these points, we'll definitely take it as a…",0.4019,0.097,0.0,0.903,14
+BBCNews,1023583698887868416,Sun Jul 29 14:59:05 +0000 2018,"RT @BBCSport: Lewis Hamilton has won the #HungarianGP for the sixth time. 
+
+His lead in the championship is up to 24 points.
+
+Reaction: htt…",0.765,0.231,0.0,0.769,15
+BBCNews,1023579614512328711,Sun Jul 29 14:42:51 +0000 2018,Birmingham manager Garry Monk signs fan's cheeky tattoo https://t.co/KXJD5lp0ng,0.0,0.0,0.0,1.0,16
+BBCNews,1023575556128944128,Sun Jul 29 14:26:44 +0000 2018,"RT @bbcemt: Meet 75-year-old Ede Smith - Leicestershire's very own ""Ninja Nan"" 👊 https://t.co/NdTuN1MN6o",0.0,0.0,0.0,1.0,17
+BBCNews,1023574805180817408,Sun Jul 29 14:23:45 +0000 2018,"Hockey Women's World Cup: England must improve, says Helen Richardson-Walsh https://t.co/dn1LE159gV",0.4404,0.225,0.0,0.775,18
+BBCNews,1023574599513108480,Sun Jul 29 14:22:56 +0000 2018,"RT @BBCSport: Today's the day!
+
+Geraint Thomas is set to make Tour de France history 👏
+
+We're live 👉 https://t.co/ZtkRdPtGio #bbccycling ht…",0.0,0.0,0.0,1.0,19
+BBCNews,1023568088665604096,Sun Jul 29 13:57:03 +0000 2018,"RT @BBCSportWales: It's a matter of hours until Geraint Thomas is crowned as the first Welshman to win the Tour de France
+
+👉 Here's how he…",0.5994,0.182,0.0,0.818,20
+BBCNews,1023472004131946496,Sun Jul 29 07:35:15 +0000 2018,"RT @BBCSport: He's off the mark! 
+
+Wayne Rooney netted his first goal for  DC United as they beat the Colorado Rapids, 2-1 in the #MLS.…",0.4753,0.114,0.0,0.886,21
+BBCNews,1023471845364916225,Sun Jul 29 07:34:37 +0000 2018,"Forecasters warn of rain, wind and floods 🌧️
+
+https://t.co/8ZQbv8oYQK https://t.co/cgEcD24dHe",-0.1027,0.0,0.135,0.865,22
+BBCNews,1023468300351750144,Sun Jul 29 07:20:32 +0000 2018,Water chiefs must 'explain leakage target failures' https://t.co/hqljOMBiCd,-0.4588,0.0,0.3,0.7,23
+BBCNews,1023460583373459461,Sun Jul 29 06:49:52 +0000 2018,Paris and glory awaits for Geraint Thomas https://t.co/figmOnOJHK,0.5859,0.444,0.0,0.556,24
+BBCNews,1023446292675084288,Sun Jul 29 05:53:05 +0000 2018,Scottish government to double funding for breastfeeding https://t.co/xisQw8vUSb,0.0,0.0,0.0,1.0,25
+BBCNews,1023433224477913089,Sun Jul 29 05:01:09 +0000 2018,Ahed Tamimi: Israel frees Palestinian viral slap video teen https://t.co/JwpdHSdQTi,0.4215,0.322,0.0,0.678,26
+BBCNews,1023420554823573505,Sun Jul 29 04:10:49 +0000 2018,Fake news 'crowding out' real news https://t.co/JdRLgsds3A,-0.4767,0.0,0.341,0.659,27
+BBCNews,1023415539098636288,Sun Jul 29 03:50:53 +0000 2018,Indonesia earthquake: 10 dead on tourist island Lombok https://t.co/cfpAXFNxDd,-0.6486,0.0,0.35,0.65,28
+BBCNews,1023393973057056768,Sun Jul 29 02:25:11 +0000 2018,More rain and wind amid 'drastic' weather change https://t.co/2CjkkbIy1r,0.0,0.0,0.0,1.0,29
+BBCNews,1023386970238738434,Sun Jul 29 01:57:21 +0000 2018,Slobodan Milosevic: Ex-Serbia leader's war crimes lawyer shot dead https://t.co/dZ2CmwdEKC,-0.8481,0.0,0.506,0.494,30
+BBCNews,1023368797426737152,Sun Jul 29 00:45:09 +0000 2018,Man Utd 1-4 Liverpool: Xherdan Shaqiri scores stunning overhead kick https://t.co/A5qCaShMwf,0.3818,0.206,0.0,0.794,31
+BBCNews,1023362302320562176,Sun Jul 29 00:19:20 +0000 2018,Tsundoku: The art of buying books and never reading them https://t.co/IFZkDdJT1N,0.0,0.0,0.0,1.0,32
+BBCNews,1023358517632290816,Sun Jul 29 00:04:18 +0000 2018,Prostatitis: 'How I meditated away chronic pelvic pain' https://t.co/6g4EcZh8ir,-0.5106,0.0,0.32,0.68,33
+BBCNews,1023346737912705025,Sat Jul 28 23:17:29 +0000 2018,Lebanon sinks tanks in Mediterranean to make new reef https://t.co/eQMZNQywFo,0.0,0.0,0.0,1.0,34
+BBCNews,1023340157741789184,Sat Jul 28 22:51:21 +0000 2018,Hungarian GP: All you need to know - Hamilton's masterclass &amp; the Force India ripple effect https://t.co/SfHdDK8czp,0.0,0.0,0.0,1.0,35
+BBCNews,1023334469367939072,Sat Jul 28 22:28:44 +0000 2018,Newspaper headlines: Brexit 'grassroots revolt' and 'a star is born' https://t.co/J1cs2P8NNy,0.0,0.0,0.0,1.0,36
+BBCNews,1023316830839099392,Sat Jul 28 21:18:39 +0000 2018,Carr fire: California blaze kills children and great-grandmother https://t.co/PurS1voBsv,-0.7096,0.0,0.457,0.543,37
+BBCNews,1023301885636300801,Sat Jul 28 20:19:16 +0000 2018,Alexandra Bell feels 'let down' after not being selected by British Athletics https://t.co/nb2H5oJVOi,0.0,0.0,0.0,1.0,38
+BBCNews,1023292878804709377,Sat Jul 28 19:43:28 +0000 2018,Four charged after police shot at during London car chase https://t.co/1OgiqHuwDh,-0.2023,0.0,0.153,0.847,39
+BBCNews,1023251139779878912,Sat Jul 28 16:57:37 +0000 2018,Crash victim 'will be missed terribly' https://t.co/KBVQI8pHwz,-0.8625,0.0,0.779,0.221,40
+BBCNews,1022983236753022982,Fri Jul 27 23:13:04 +0000 2018,"Man arrested over murder of girl, 13, in Southampton https://t.co/QR3WheS8DF",-0.8316,0.0,0.494,0.506,41
+BBCNews,1022976880331448320,Fri Jul 27 22:47:48 +0000 2018,Newspaper headlines: 'Summer of Chaos' and Prince Charles 'was misled' https://t.co/7tc7TiqyFV,-0.5719,0.0,0.27,0.73,42
+BBCNews,1022974212829528066,Fri Jul 27 22:37:12 +0000 2018,Les Moonves: CBS investigates report of 'misconduct' https://t.co/p2LfGNEPxB,0.0,0.0,0.0,1.0,43
+BBCNews,1022970093884588032,Fri Jul 27 22:20:50 +0000 2018,Tim Don: Ironman world record holder on breaking his neck and the 'halo' that saved his career https://t.co/rfbBjRoanD,0.4215,0.141,0.0,0.859,44
+BBCNews,1022965359954067457,Fri Jul 27 22:02:02 +0000 2018,"Saturday's Guardian: ""This is the face of climate change, say scientists"" (via @MsHelicat) #tomorrowspaperstoday https://t.co/Mna65R89rV",0.0,0.0,0.0,1.0,45
+BBCNews,1022965335232851977,Fri Jul 27 22:01:56 +0000 2018,"Saturday's Mail: ""Front page that changed your world"" (via @MsHelicat) #tomorrowspaperstoday https://t.co/Z76T2Umftb",0.0,0.0,0.0,1.0,46
+BBCNews,1022958369773105152,Fri Jul 27 21:34:15 +0000 2018,RT @BBCWorld: In pictures: Blood moon around the world https://t.co/cRQmVNgcfj #LunarEclipse #BloodMoon #EclipseLunar https://t.co/2aAfds6n…,0.0,0.0,0.0,1.0,47
+BBCNews,1022950905187131394,Fri Jul 27 21:04:35 +0000 2018,"Saturday's Telegraph: ""I got rid of mine, says smart meter minister"" (via @MsHelicat) #tomorrowspaperstoday https://t.co/VXiKFlOQ7I",0.4019,0.162,0.0,0.838,48
+BBCNews,1022950887524917248,Fri Jul 27 21:04:31 +0000 2018,"Fake news a democratic crisis, MPs warn https://t.co/xCumV2z3JV",-0.8225,0.0,0.683,0.317,49
+BBCNews,1022950497060352000,Fri Jul 27 21:02:58 +0000 2018,"FT weekend: ""Twitter figures rattle Wall St"" (via @MsHelicat) #tomorrowspaperstoday https://t.co/l9yvCEnoNw",0.0,0.0,0.0,1.0,50
+BBCNews,1022950453070450695,Fri Jul 27 21:02:48 +0000 2018,"Saturday's Independent: ""May snubbed by Europe as no-deal #Brexit looms"" (via @MsHelicat)  #tomorrowspaperstoday https://t.co/0yQfBG0CXF",-0.5574,0.0,0.277,0.723,51
+BBCNews,1022948270040129536,Fri Jul 27 20:54:07 +0000 2018,"Saturday's Mirror: ""The summer of chaos"" (via @MsHelicat) #tomorrowspaperstoday https://t.co/2m9wjm7mU0",-0.5719,0.0,0.291,0.709,52
+BBCNews,1022948243406237703,Fri Jul 27 20:54:01 +0000 2018,"Saturday's Star: ""Keep cool &amp; carry on"" (via @MsHelicat) #tomorrowspaperstoday https://t.co/RhQ1w2GX4h",0.3182,0.187,0.0,0.813,53
+BBCNews,1022948207909892097,Fri Jul 27 20:53:52 +0000 2018,"Saturday's Express: ""Dame Esther: Thank you for the lifeline"" (via @MsHelicat) #tomorrowspaperstoday https://t.co/34i83SFoSo",0.3612,0.172,0.0,0.828,54
+BBCNews,1022948164226179072,Fri Jul 27 20:53:42 +0000 2018,"Saturday's i: ""Future king 'misled' by paedophile bishop"" (via @MsHelicat) #tomorrowspaperstoday https://t.co/stRSmM11ib",0.0,0.0,0.0,1.0,55
+BBCNews,1022941716716945414,Fri Jul 27 20:28:05 +0000 2018,In pictures: Blood moon around the world https://t.co/JXo0XP5ofF,0.0,0.0,0.0,1.0,56
+BBCNews,1022941071477813248,Fri Jul 27 20:25:31 +0000 2018,LeBron James: NBA star 'regrets' giving son his name https://t.co/kqft02PLM1,0.34,0.211,0.0,0.789,57
+BBCNews,1022939484407705602,Fri Jul 27 20:19:13 +0000 2018,Jacob Abraham: Five boys jailed for teen's torture murder https://t.co/IOlpLMSBI0,-0.9153,0.0,0.628,0.372,58
+BBCNews,1022931299491672064,Fri Jul 27 19:46:41 +0000 2018,Ghana MPs giggle over 'Wise Vagina' village name https://t.co/mKqIezZqua,0.7096,0.457,0.0,0.543,59
+BBCNews,1022899651953995777,Fri Jul 27 17:40:56 +0000 2018,Actor Ed Westwick will not be prosecuted over sexual assault allegations in US https://t.co/CCFYYkthzq,-0.3851,0.121,0.211,0.667,60
+BBCNews,1022639350260088833,Fri Jul 27 00:26:35 +0000 2018,Quiz: What is 7pm the peak time for? https://t.co/blLDLYLbd5,0.0,0.0,0.0,1.0,61
+BBCNews,1022638102333018113,Fri Jul 27 00:21:37 +0000 2018,Papa John's founder sues pizza chain https://t.co/gpZPq3TmGC,0.0,0.0,0.0,1.0,62
+BBCNews,1022633613198802944,Fri Jul 27 00:03:47 +0000 2018,TUC: One in 12 workers miss out on legal holiday entitlement https://t.co/9RoKFMdjNQ,0.3818,0.284,0.108,0.608,63
+BBCNews,1022629651032756225,Thu Jul 26 23:48:03 +0000 2018,Anne Hathaway attacks 'white privilege' after train stabbing https://t.co/c6g9RNuWje,-0.1027,0.202,0.234,0.565,64
+BBCNews,1022628999573504000,Thu Jul 26 23:45:27 +0000 2018,"US child migrants: Trump administration says 1,800 reunited https://t.co/sbwy7Mfdre",0.0,0.0,0.0,1.0,65
+BBCNews,1022620943003344897,Thu Jul 26 23:13:26 +0000 2018,Custody battle after Briton Michael Simpson murdered in China https://t.co/aul8iUqBdJ,-0.7906,0.0,0.467,0.533,66
+BBCNews,1022595266405429251,Thu Jul 26 21:31:25 +0000 2018,"Friday's Guardian: ""Billions wiped off Facebook value as it pays price for data scandal"" (via @hendopolis)… https://t.co/Fix0VL1AtT",-0.128,0.118,0.143,0.739,67
+BBCNews,1022593059148705792,Thu Jul 26 21:22:38 +0000 2018,"Friday's Times: ""Antisemitic hate posts allowed by Facebook"" (via @hendopolis) #tomorrowspaperstoday https://t.co/gYphwzF4Qp",-0.5719,0.0,0.252,0.748,68
+BBCNews,1022593032145788929,Thu Jul 26 21:22:32 +0000 2018,"Friday's i: ""Cannabis medicine on the NHS"" (via @hendopolis) #tomorrowspaperstoday https://t.co/hd1GADGA8E",0.0,0.0,0.0,1.0,69
+BBCNews,1022592493530095618,Thu Jul 26 21:20:23 +0000 2018,"Friday's Metro: ""Wrong kind of sun"" (via @hendopolis) #tomorrowspaperstoday https://t.co/4tIdvGn1Rv",-0.4767,0.0,0.256,0.744,70
+BBCNews,1022592466330025985,Thu Jul 26 21:20:17 +0000 2018,"Friday's Star: ""Fergie: Thanks to NHS angels for my extra time"" (via @hendopolis) #tomorrowspaperstoday https://t.co/zh9dUBNTss",0.4404,0.172,0.0,0.828,71
+BBCNews,1022592439478112256,Thu Jul 26 21:20:11 +0000 2018,"Friday's Express: ""'Spectacular' Alzheimer’s breakthrough"" (via @hendopolis) #tomorrowspaperstoday https://t.co/0e2PvB5vGD",0.0,0.0,0.0,1.0,72
+BBCNews,1022592411053305856,Thu Jul 26 21:20:04 +0000 2018,"Friday's Independent: ""Are you listening, Ms May?"" (via @hendopolis) #tomorrowspaperstoday https://t.co/OrtrKL9rD2",0.0,0.0,0.0,1.0,73
+BBCNews,1022592376185991169,Thu Jul 26 21:19:55 +0000 2018,"Friday's FT: ""Facebook sheds $120bn in value"" (via @hendopolis) #tomorrowspaperstoday https://t.co/ChgM6HCyRJ",0.34,0.194,0.0,0.806,74
+BBCNews,1022592358301487104,Thu Jul 26 21:19:51 +0000 2018,"Friday's Telegraph: ""Teenagers told to get jobs for the summer"" (via @hendopolis) #tomorrowspaperstoday https://t.co/xNXvkei5VP",0.0,0.0,0.0,1.0,75
+BBCNews,1022592331776761857,Thu Jul 26 21:19:45 +0000 2018,"Friday's Morning Star: ""Assaults every 20 minutes in Britain's jails"" (via @hendopolis) #tomorrowspaperstoday https://t.co/3XB8Xp0ojM",-0.5423,0.0,0.212,0.788,76
+BBCNews,1022590936570839042,Thu Jul 26 21:14:12 +0000 2018,An inquiry into historical sex abuse finds no evidence of a conspiracy https://t.co/Z3hKDpEkm5,-0.8689,0.0,0.521,0.479,77
+BBCNews,1022590733679845382,Thu Jul 26 21:13:24 +0000 2018,"RT @BBCSport: Full-time in tonight's Europa League qualifiers.
+
+Aberdeen 1-1 Burnley
+Hibernian 3-2 Asteras Tripolis
+Osijek 0-1 Rangers
+
+htt…",0.0,0.0,0.0,1.0,78
+BBCNews,1022581372005888000,Thu Jul 26 20:36:12 +0000 2018,Amazon profit rises but warns sales growth could slow https://t.co/oH5HfdNkxt,0.6249,0.469,0.112,0.42,79
+BBCNews,1022568255012196353,Thu Jul 26 19:44:05 +0000 2018,Greek fires: Blaze that killed 83 'caused by arson' https://t.co/naulirECGI,-0.6705,0.0,0.333,0.667,80
+BBCNews,1022281255323426816,Thu Jul 26 00:43:38 +0000 2018,Boys more 'cliquey' than girls https://t.co/gWjbOPx6x3,0.0,0.0,0.0,1.0,81
+BBCNews,1022244039037513728,Wed Jul 25 22:15:45 +0000 2018,Newspaper headlines: 'Deadly heatwaves' and 'plague of rats' https://t.co/3LpIlp58mW,0.0,0.0,0.0,1.0,82
+BBCNews,1022239788626325504,Wed Jul 25 21:58:52 +0000 2018,RT @BBCSPORTNI: Blair Mayne: Decorated soldier who became a Lions legend https://t.co/snYB4BAfTm,0.0,0.0,0.0,1.0,83
+BBCNews,1022238857369214976,Wed Jul 25 21:55:10 +0000 2018,"Thursday's Daily Mail: ""Furnace Friday!""
+
+#tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/QKfpAq0veJ",0.0,0.0,0.0,1.0,84
+BBCNews,1022238848850583552,Wed Jul 25 21:55:08 +0000 2018,"Thursday's Mirror: ""UK's hottest day ever"" 
+
+#tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/rshCjIMs1N",0.0,0.0,0.0,1.0,85
+BBCNews,1022238840575209477,Wed Jul 25 21:55:06 +0000 2018,"Thursday's Guardian: ""Police custody deaths highest in 10 years"" 
+
+#tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/CDawMdzooz",0.0,0.0,0.0,1.0,86
+BBCNews,1022238527394852872,Wed Jul 25 21:53:51 +0000 2018,Trump: US and EU agree to work towards lower trade barriers https://t.co/0WyI3wsrnW,0.0772,0.17,0.15,0.68,87
+BBCNews,1022232463802855425,Wed Jul 25 21:29:46 +0000 2018,"Thursday's Times: ""Trump strikes deal with EU to prevent trade war"" 
+
+#tomorrowspaperstoday #bbcpapers (via… https://t.co/cF8jGCOKYk",-0.743,0.056,0.328,0.615,88
+BBCNews,1022232455330390016,Wed Jul 25 21:29:44 +0000 2018,"Thursday's Daily Star: ""Cheeky little devil"" 
+
+#tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/BUQeqfSbdP",-0.6258,0.0,0.291,0.709,89
+BBCNews,1022225462007922692,Wed Jul 25 21:01:56 +0000 2018,"Thursday's Daily Telegraph: ""Britain at the mercy of deadly heatwaves""
+
+#tomorrowspaperstoday #bbcpapers (via… https://t.co/qxLyy8DPdG",0.3612,0.161,0.0,0.839,90
+BBCNews,1022225457289330698,Wed Jul 25 21:01:55 +0000 2018,"Thursday's i: ""Found: water on Mars""
+
+#tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/DEQNG2sJAE",0.0,0.0,0.0,1.0,91
+BBCNews,1022225443741728770,Wed Jul 25 21:01:52 +0000 2018,"Thursday's Daily Express: ""Postcode lottery for PM's diabetes patch"" 
+
+#tomorrowspaperstoday #bbcpapers (via… https://t.co/0mD3C0h5E7",0.0,0.0,0.0,1.0,92
+BBCNews,1022222857907195904,Wed Jul 25 20:51:35 +0000 2018,Jewish newspapers unite again Labour 'threat' https://t.co/trp1idejdL,0.0,0.0,0.0,1.0,93
+BBCNews,1022219990542549002,Wed Jul 25 20:40:12 +0000 2018,Facebook tumbles as growth disappoints https://t.co/qaZrUZhVEg,0.0,0.283,0.283,0.435,94
+BBCNews,1022213577934032896,Wed Jul 25 20:14:43 +0000 2018,"RT @BBCBreakfast: 🌡😴 Need help to get to sleep in this heat?
+@drneilstanley has some tips...
+#heatwaveuk #wednesdaywisdom https://t.co/8yR8…",0.4019,0.13,0.0,0.87,95
+BBCNews,1022213266070798337,Wed Jul 25 20:13:29 +0000 2018,"RT @bbcweather: Temperature is set to rise further in the days ahead, but there are signs of a change in the horizon. https://t.co/r1ct6dvX…",0.0,0.0,0.0,1.0,96
+BBCNews,1022212903934541824,Wed Jul 25 20:12:02 +0000 2018,"Thursday's Financial Times: ""GM and Fiat Chrysler dented as Trump's trade war takes toll""
+
+#tomorrowspaperstoday… https://t.co/Ar0itTumyi",-0.5994,0.0,0.206,0.794,97
+BBCNews,1022211896454402048,Wed Jul 25 20:08:02 +0000 2018,"Dizziness when getting up could increase dementia risk, US study says https://t.co/rYCB5haJlJ",0.0516,0.16,0.146,0.694,98
+BBCNews,1022202474172743682,Wed Jul 25 19:30:36 +0000 2018,"RT @BBCWorld: Mars ""may be our first real place to go look hard to see if we're alone or not""
+
+Ex-astronaut @Cmdr_Hadfield says discovery o…",-0.34,0.0,0.129,0.871,99
+BBCNews,1022195465905942529,Wed Jul 25 19:02:45 +0000 2018,EastEnders: Original character Doctor Legg to return https://t.co/uBt4evXobE,0.3182,0.247,0.0,0.753,100
+CBS,1023247696411283456,Sat Jul 28 16:43:56 +0000 2018,"Housewives. PTA moms. School volunteers. Starting TONIGHT, hear the stories of seemingly innocent women who put it… https://t.co/5TA15OiTuh",0.34,0.124,0.0,0.876,1
+CBS,1022171020046688256,Wed Jul 25 17:25:36 +0000 2018,"This is one allowance that can’t be beat! Kids are winning big this week on @PriceIsRight. 🎉
+ https://t.co/lncKu9XvNo",0.5707,0.187,0.0,0.813,2
+CBS,1022137528311111680,Wed Jul 25 15:12:31 +0000 2018,"Renowned artists Cher, Philip Glass, Reba McEntire, Wayne Shorter, and the co-creators of #Hamilton will be recogni… https://t.co/PEjjI9MKE1",0.0,0.0,0.0,1.0,3
+CBS,1021924255657648128,Wed Jul 25 01:05:03 +0000 2018,Who's excited for the return of @MurphyBrownCBS? Here's a behind-the-scenes look at the first table read of the sea… https://t.co/1B5S4WJnCW,0.34,0.118,0.0,0.882,4
+CBS,1021830935296204800,Tue Jul 24 18:54:14 +0000 2018,"Mark your calendars because you won’t want to miss this! Former Secretaries of State @HillaryClinton, @Madeleine, a… https://t.co/JKDPp97OqN",-0.1511,0.068,0.099,0.834,5
+CBS,1021507888123064320,Mon Jul 23 21:30:33 +0000 2018,The cast couldn’t be more excited to welcome @ansonmount into the @startrekcbs family! Who’s ready to see the iconi… https://t.co/fOS4f4VCb2,0.8293,0.34,0.0,0.66,6
+CBS,1020849969744338944,Sun Jul 22 01:56:13 +0000 2018,RT @startrekcbs: Stream the full panel &amp; learn all the exclusive details revealed about season 2 of #StarTrekDiscovery at @Comic_Con: https…,0.128,0.073,0.0,0.927,7
+CBS,1020472292210380800,Sat Jul 21 00:55:28 +0000 2018,RT @MagnumPICBS: Couldn't make it to San Diego for the #MagnumPI panel? Here's everything you missed at #SDCC2018: https://t.co/Z7IBqF1YJ8…,-0.296,0.0,0.109,0.891,8
+CBS,1020463166495469568,Sat Jul 21 00:19:12 +0000 2018,RT @bigbangtheory: The #BigBangTheory writers teased a honeymoon episode and more @YoungSheldon characters in Season 12 while speaking at #…,-0.296,0.0,0.109,0.891,9
+CBS,1020460850564411392,Sat Jul 21 00:10:00 +0000 2018,"RT @TrueCrimeCBS: When you find out you’ve been treated with chemo, but you don’t have cancer. #Whistleblower https://t.co/DAKwu1vcNX",-0.7964,0.0,0.264,0.736,10
+CBS,1020454535095992320,Fri Jul 20 23:44:54 +0000 2018,George blew the whistle on a doctor targeting those who believed they had cancer. What was the outcome? Find out to… https://t.co/rLlNzlK3Cy,-0.6597,0.0,0.18,0.82,11
+CBS,1020435581350760450,Fri Jul 20 22:29:36 +0000 2018,"RT @startrekcbs: Discover the next adventure of Starfleet in this first look at the season 2 premiere, coming early 2019. Season 1 is now s…",0.3182,0.095,0.0,0.905,12
+CBS,1020422888497614848,Fri Jul 20 21:39:09 +0000 2018,Take a trip down memory lane with the cast and crew of @MagnumPICBS at #SDCC2018! https://t.co/jHVxm7kyaT,0.0,0.0,0.0,1.0,13
+CBS,1020324546719567873,Fri Jul 20 15:08:23 +0000 2018,"This @cbsallaccess series is unlike any fairy tale you've ever seen before. @paulwesley, @kevwilliamson &amp;… https://t.co/icsSnPxKAr",0.0,0.0,0.0,1.0,14
+CBS,1019279418332626944,Tue Jul 17 17:55:25 +0000 2018,🤰👩‍👧🚫🍸 #WorldEmojiDay,0.0,0.0,0.0,1.0,15
+CBS,1019271132740894721,Tue Jul 17 17:22:29 +0000 2018,👨📝✔️ #WorldEmojiDay,0.0,0.0,0.0,1.0,16
+CBS,1019271132019486721,Tue Jul 17 17:22:29 +0000 2018,👩‍💼💼🇺🇸 #WorldEmojiDay,0.0,0.0,0.0,1.0,17
+CBS,1019271131319037952,Tue Jul 17 17:22:29 +0000 2018,🕵️🕵️‍♀️ #WorldEmojiDay,0.0,0.0,0.0,1.0,18
+CBS,1019271130564083713,Tue Jul 17 17:22:29 +0000 2018,⚓️🦅🇺🇸 #WorldEmojiDay,0.0,0.0,0.0,1.0,19
+CBS,1019271129884573696,Tue Jul 17 17:22:29 +0000 2018,🏄🌴🚔 #WorldEmojiDay,0.0,0.0,0.0,1.0,20
+CBS,1016394951205085185,Mon Jul 09 18:53:34 +0000 2018,"RT @TKOCBS: The Ball Buster, the Frisboom, the Spike Launcher, and the Slammer… Get to know all of the #TKO Battle Stations: https://t.co/2…",-0.3818,0.0,0.106,0.894,21
+CBS,1016383735866916864,Mon Jul 09 18:09:00 +0000 2018,"RT @cbsallaccess: How much does it cost to bury the truth? #OneDollar premieres August 30, exclusively on CBS All Access. https://t.co/2HdY…",0.3182,0.103,0.0,0.897,22
+CBS,1015360471430410241,Fri Jul 06 22:22:55 +0000 2018,"RT @SalvationCBS: Mark your calendars, #Salvies: Monday's new #SalvationCBS will air at a special time, 10/9c. https://t.co/RUh1J7cfj8",0.4019,0.153,0.0,0.847,23
+CBS,1015301005611679745,Fri Jul 06 18:26:37 +0000 2018,Happy #InternationalKissingDay! See which stars we caught locking lips on the CBS Kiss Cam. 😘 https://t.co/oMPCHZlgCl,0.7777,0.343,0.0,0.657,24
+CBS,1014980306309222402,Thu Jul 05 21:12:17 +0000 2018,Have you heard? Tonight's the first Live Show of #BB20. Grab a seat and get ready to watch the action unfold on CBS… https://t.co/0YgRV1HLGd,0.3612,0.102,0.0,0.898,25
+CBS,1013893370748366848,Mon Jul 02 21:13:11 +0000 2018,"How much does it cost to bury the truth? #OneDollar premieres Thursday, August 30, exclusively on CBS All Access.… https://t.co/1tab8eCaFz",0.3182,0.108,0.0,0.892,26
+CBS,1013886917060919296,Mon Jul 02 20:47:32 +0000 2018,Take a first look at our @Comic_Con lineup along with details of what you can expect to see:… https://t.co/JqBtlKcwq3,0.0,0.0,0.0,1.0,27
+CBS,1013836474658115584,Mon Jul 02 17:27:06 +0000 2018,RT @TrueCrimeCBS: Two new true-crime series are set to premiere this July on CBS! Learn more about #Whistleblower and #PinkCollarCrimes bef…,0.0,0.0,0.0,1.0,28
+CBS,1013829663754543106,Mon Jul 02 17:00:02 +0000 2018,"If at first you don’t succeed on @PriceIsRight…bid, bid again! https://t.co/OWBaOsFZ3i",0.5411,0.259,0.0,0.741,29
+CBS,1012070951624720384,Wed Jun 27 20:31:32 +0000 2018,What’s summer without @CBSBigBrother? ☀️ RT if you’re counting down the hours to the #BB20 premiere TONIGHT at 8/7c… https://t.co/Xp1s4Fp5J8,0.0,0.0,0.0,1.0,30
+CBS,1011972421513986048,Wed Jun 27 14:00:01 +0000 2018,"It looks like you...
+
+(•_•)
+( •_•)&gt;⌐■-■
+(⌐■_■)
+
+Have a lot of TV to watch!
+
+Celebrate #NationalSunglassesDay with H… https://t.co/Babt4ajIgV",0.7574,0.289,0.0,0.711,31
+CBS,1011313179320729603,Mon Jun 25 18:20:25 +0000 2018,The world will finally know the truth. ☄️ Make sure to tune in to the heart-pounding Season 2 premiere of… https://t.co/mqMleW90DY,0.5574,0.204,0.0,0.796,32
+CBS,1010270980613132288,Fri Jun 22 21:19:06 +0000 2018,Tonight's the night! Don't miss model @ashleygraham on the season finale of Celebrity @undercover_cbs at 8/7c. https://t.co/iBxAOcOF7a,0.1867,0.098,0.0,0.902,33
+CBS,1010229404696342529,Fri Jun 22 18:33:53 +0000 2018,"Every day is #TakeYourDogToWorkDay for shows like @HawaiiFive0CBS, @MomCBS, @SEALTeamCBS, and @bigbangtheory! https://t.co/DJaOt1VQcw",0.4199,0.189,0.0,0.811,34
+CBS,1009941494998839296,Thu Jun 21 23:29:50 +0000 2018,"Lights, camera, selfie! 📸 Could there be a better photo for #NationalSelfieDay? https://t.co/14Ewx64yKC",0.4926,0.242,0.0,0.758,35
+CBS,1009234127713759233,Wed Jun 20 00:39:01 +0000 2018,There’s nothing quite like watching a contestant win a brand new car on @PriceIsRight. 👏  https://t.co/aKlFikYAMM,0.3555,0.222,0.136,0.642,36
+CBS,1008808528859938817,Mon Jun 18 20:27:50 +0000 2018,Time to make your predictions for #BB20! 👏 Get to know the @CBSBigBrother Houseguests before the big premiere next… https://t.co/jlpIchJ9sk,0.0,0.0,0.0,1.0,37
+CBS,1008726220924583937,Mon Jun 18 15:00:46 +0000 2018,RT @CBSBigBrother: Meet the cast of #BB20... before anyone else! Start streaming all their live interviews beginning at 11am EST/8am PST on…,0.0,0.0,0.0,1.0,38
+CBS,1008333443669770244,Sun Jun 17 13:00:01 +0000 2018,"Today and every day we celebrate their love, guidance, and support. Happy #FathersDay to every kind of dad! https://t.co/Wffax1khBH",0.9392,0.493,0.0,0.507,39
+CBS,1007696364006854656,Fri Jun 15 18:48:29 +0000 2018,"Casting Alert! @paulwesley, @DaniaJRamirez &amp; @JamesWolk are set to star in the upcoming CBS All Access psychologica… https://t.co/JnZMrzT92n",0.3595,0.128,0.0,0.872,40
+CBS,1005978618554535937,Mon Jun 11 01:02:47 +0000 2018,Nathan Lane wins Best Featured Actor in a Play. #TonyAwards @angelsbway https://t.co/xc8M7JtLDE,0.8834,0.563,0.0,0.437,41
+CBS,1005977438969458688,Mon Jun 11 00:58:06 +0000 2018,🌟 @joshgroban and @SaraBareilles are Host Goals. 🌟 #TonyAwards https://t.co/OGQec8cXJ6,0.0,0.0,0.0,1.0,42
+CBS,1005976046405992449,Mon Jun 11 00:52:34 +0000 2018,RT @adub369: This is unbelievable! @SaraBareilles and @joshgroban #TonyAwards,0.2714,0.207,0.0,0.793,43
+CBS,1005975699272814592,Mon Jun 11 00:51:11 +0000 2018,Who lives in a pineapple and just performed at The Tonys? 🍍🎶 The cast of SpongeBob SquarePants: The Musical!… https://t.co/mvFxdh9UJi,0.0,0.0,0.0,1.0,44
+CBS,1005975478300110848,Mon Jun 11 00:50:18 +0000 2018,✨ @LindsayMendez wins Best Featured Actress in a Musical! #TonyAwards @carouselbway https://t.co/MtgFowscN5,0.8478,0.506,0.0,0.494,45
+CBS,1005974199880445952,Mon Jun 11 00:45:14 +0000 2018,A big congratulations to @springsteen for his Special Tony award! ✨ #TonyAwards https://t.co/i16u8uv9aT,0.8858,0.565,0.0,0.435,46
+CBS,1005974043713912832,Mon Jun 11 00:44:36 +0000 2018,Can the 73rd annual #TonyAwards just be three-hours of @TitussBurgess? https://t.co/3rCZwwTUtv,0.0,0.0,0.0,1.0,47
+CBS,1005971798687506432,Mon Jun 11 00:35:41 +0000 2018,"RT @CBSThisMorning: ""We know there are a lot of you out there who have photos of yourself in school plays or community theater."" Post your…",0.25,0.08,0.0,0.92,48
+CBS,1005971562032328704,Mon Jun 11 00:34:45 +0000 2018,Keep your acceptance speeches short or else the #TonyAwards will get the angels involved. #AngelsInAmerica 👼 https://t.co/oznhezRzDc,0.4588,0.167,0.0,0.833,49
+CBS,1005970736844947457,Mon Jun 11 00:31:28 +0000 2018,"If you haven't started singing, you will be the rest of the night. #TonyAwards #MyFairLady https://t.co/jbGXwnru8N",0.0,0.0,0.0,1.0,50
+CBS,1005969788911276032,Mon Jun 11 00:27:42 +0000 2018,RT @marialena_rago: I like this opener for @MyFairLadyBway #TonyAwards,0.3612,0.263,0.0,0.737,51
+CBS,1005969613069275136,Mon Jun 11 00:27:00 +0000 2018,Laurie Metcalf wins Best Featured Actress in a Play! #TonyAwards @threetallwomen https://t.co/y4teyJaRPs,0.8908,0.57,0.0,0.43,52
+CBS,1005968989724405760,Mon Jun 11 00:24:31 +0000 2018,Tina Fey has a boat?? #MeanGirls #TonyAwards https://t.co/phYxmHMd3d,0.0,0.0,0.0,1.0,53
+CBS,1005968419072557056,Mon Jun 11 00:22:15 +0000 2018,Representing the hardest-working men and women in Broadway… ensemble members from every nominated musical tonight!… https://t.co/imlEEnOUla,0.0,0.0,0.0,1.0,54
+CBS,1005968418581852160,Mon Jun 11 00:22:15 +0000 2018,RT @misschae: I love theatre so much. #TonyAwards,0.6369,0.412,0.0,0.588,55
+CBS,1005967414159278080,Mon Jun 11 00:18:16 +0000 2018,On Wednesdays they wear pink and on Sundays they perform at the #TonyAwards. 💕 Who thought that performance by the… https://t.co/w7QDkaX6kF,0.0,0.0,0.0,1.0,56
+CBS,1005966205054619648,Mon Jun 11 00:13:27 +0000 2018,"RT @MichaelJMoritz: ""We are all made perfectly and we all belong” - Andrew Garfield #TonyAwards",0.6369,0.244,0.0,0.756,57
+CBS,1005965967711657985,Mon Jun 11 00:12:31 +0000 2018,Andrew Garfield wins Best Leading Actor in a Play. #TonyAwards @angelsbway https://t.co/s2VQnw6IPP,0.8834,0.563,0.0,0.437,58
+CBS,1005964491224305665,Mon Jun 11 00:06:39 +0000 2018,"RT @nightingalen: Love this opening song! @joshgroban
+@SaraBarreilles 
+#TonyAwards",0.6696,0.36,0.0,0.64,59
+CBS,1005963888188198912,Mon Jun 11 00:04:15 +0000 2018,✨ @joshgroban and @SaraBareilles take the stage to begin an unforgettable evening. #TonyAwards https://t.co/y9uzlK2DzO,0.0,0.0,0.0,1.0,60
+CBS,995653948580151296,Sun May 13 13:16:14 +0000 2018,"Happy #MothersDay to the moms who comfort us, understand us, and keep us centered. We ❤️ you. https://t.co/4YDmZrTGIC",0.7351,0.279,0.0,0.721,61
+CBS,995076249159528448,Fri May 11 23:00:40 +0000 2018,The more the merrier! CBS has ordered five more shows that just might become your new favorites next season:… https://t.co/2g5OSj2xPu,0.7245,0.252,0.0,0.748,62
+CBS,995044660912373760,Fri May 11 20:55:08 +0000 2018,Thinking about the @BlueBloods_CBS season finale like… Don’t miss the surprising reveal TONIGHT at 10/9c. https://t.co/8ExkPFpnFj,0.128,0.119,0.09,0.791,63
+CBS,994716533547974656,Thu May 10 23:11:17 +0000 2018,"Double the @MomCBS, double the fun! Anyone else feel like they hit the jackpot with the back-to-back Season Finale… https://t.co/ebq8WJLKGf",0.7263,0.253,0.0,0.747,64
+CBS,994659380418101248,Thu May 10 19:24:10 +0000 2018,"2 suitors, 1 Meemaw and 1 Sheldon. You won’t want to miss the season finale of @YoungSheldon tonight at 8:30/7:30c. https://t.co/Hht2yRE7ly",-0.0772,0.069,0.085,0.847,65
+CBS,994639061863227393,Thu May 10 18:03:26 +0000 2018,Broadway's Biggest Night is around the corner! Who are you hoping to see? #TonyAwards2018 ✨ https://t.co/KLT8QCxWcK,0.4753,0.181,0.0,0.819,66
+CBS,994600615450820608,Thu May 10 15:30:40 +0000 2018,"The big day is finally here, and you’re invited. 👰 Make sure to tune in to the @bigbangtheory’s star-studded #ShAmy… https://t.co/la9E6tvQ5b",0.3182,0.108,0.0,0.892,67
+CBS,994329918342246400,Wed May 09 21:35:00 +0000 2018,"Before the #ShAmy wedding tomorrow, the @bigbangtheory stars &amp; special guests play a game of ""yay or nay"" with thes… https://t.co/ZpCM16qOyT",0.8176,0.333,0.0,0.667,68
+CBS,994300069422747648,Wed May 09 19:36:24 +0000 2018,Get ready for more laughs! Learn more about the two new comedies coming to CBS: https://t.co/cpT3fd2RH5 https://t.co/NGrcp803zW,0.8395,0.391,0.0,0.609,69
+CBS,993980592206184449,Tue May 08 22:26:55 +0000 2018,"Goodbyes are never easy.  After 15 seasons, don’t miss Abby’s final episode of @NCIS_CBS tonight at 8/7c.  https://t.co/GTGj2YRJA1",-0.4599,0.0,0.2,0.8,70
+CBS,993942497133907968,Tue May 08 19:55:32 +0000 2018,Will you be watching the @BullCBS Season 2 Finale tonight at 9/8c? RT if your answer is yes! https://t.co/OxnyEDVsKj,0.4574,0.15,0.0,0.85,71
+CBS,993902934990569473,Tue May 08 17:18:20 +0000 2018,RT @thegoodfight: Listening to #QueenBaranski read fan tweets is like poetry. 😍 Warning: this video will give you ALL the feels. ☺️❤️ #TheG…,0.34,0.183,0.092,0.725,72
+CBS,993548602675871744,Mon May 07 17:50:20 +0000 2018,"RT @KevinCanWaitCBS: Season 2 of #KevinCanWait comes to a close tonight, and @KevinJames and @LeahRemini have A LOT to say about it. https:…",0.0,0.0,0.0,1.0,73
+CBS,992509168652255233,Fri May 04 21:00:00 +0000 2018,Spend your Friday night with this dynamic duo! Tune in to the season finale of @MacGyverCBS at 8/7c on CBS and CBS… https://t.co/AfWUVo4GSu,0.5093,0.13,0.0,0.87,74
+CBS,992474489471492096,Fri May 04 18:42:12 +0000 2018,RT @undercover_cbs: Get ready for the series premiere of #CelebrityBoss in just seven days! How would you react if your favorite celebrity…,0.6996,0.225,0.0,0.775,75
+CBS,992415727603847171,Fri May 04 14:48:42 +0000 2018,The force is strong on the set of @bigbangtheory! #MayThe4thBeWithYou https://t.co/uYyXKtuVCM,0.5562,0.264,0.0,0.736,76
+CBS,991755206189727744,Wed May 02 19:04:01 +0000 2018,RT @thegoodfight: The fight's not over yet. #TheGoodFight is renewed for Season 3. https://t.co/gUrDeA5KQP,0.0,0.0,0.0,1.0,77
+CBS,991454929133879296,Tue May 01 23:10:50 +0000 2018,RT @TKOCBS: Both @hwventure and @janemun have been named Executive Producers and showrunners of #TKO: TOTAL KNOCK OUT! Learn more about the…,0.0,0.0,0.0,1.0,78
+CBS,991376415751684096,Tue May 01 17:58:51 +0000 2018,"RT @StrangeAngel: Sex. Magick. Rocket Science. #StrangeAngel launches June 14, only on CBS All Access. https://t.co/I3sqWMASxl https://t.co…",0.0,0.0,0.0,1.0,79
+CBS,991335554280140800,Tue May 01 15:16:28 +0000 2018,"Broadway's Biggest Night will honor the best in theatre on Sunday, June 10! Here are the nominees for the… https://t.co/tCiNaLGIvq",0.8268,0.299,0.0,0.701,80
+CBS,985638908041064448,Sun Apr 15 22:00:02 +0000 2018,Tonight's the night! Tune in at 8/7c to see @reba and all your favorite country artists take Vegas by storm at the… https://t.co/UlPpES5eN8,0.5093,0.13,0.0,0.87,81
+CBS,985623801835802630,Sun Apr 15 21:00:01 +0000 2018,The anticipation is real. Just three hours away from the 53rd #ACMawards! Tune in at 8/7c on CBS All Access:… https://t.co/9os3PJ4pyQ,0.1759,0.078,0.0,0.922,82
+CBS,985608703792570369,Sun Apr 15 20:00:01 +0000 2018,"Are you ready to party with @dariusrucker in a few hours at the #ACMawards? Watch the show LIVE at 8/7c on CBS, or… https://t.co/xAGKgZFRoD",0.6369,0.198,0.0,0.802,83
+CBS,985548304397275137,Sun Apr 15 16:00:01 +0000 2018,Look out for @LukeBryanOnline's performance tonight at the 53rd #ACMawards! https://t.co/dgxgsfj5Hg,0.0,0.0,0.0,1.0,84
+CBS,985291613697183744,Sat Apr 14 23:00:01 +0000 2018,Are you as excited for the #ACMawards as @KelseaBallerini? This Female Vocalist Of The Year nominee is taking the s… https://t.co/JSj5jGH25H,0.34,0.107,0.0,0.893,85
+CBS,985253104466587648,Sat Apr 14 20:26:59 +0000 2018,Watch @Jason_Aldean and @ThomasRhett take a break from rehearsals to spend quality time with Route 91 Survivors.… https://t.co/TiDfaYxJUm,0.0,0.0,0.0,1.0,86
+CBS,985220441613549569,Sat Apr 14 18:17:12 +0000 2018,Country's brightest stars like @ThomasRhett are ready to pour their hearts out during their performances tomorrow n… https://t.co/m3zOG8M8lw,0.8402,0.375,0.0,0.625,87
+CBS,985155717182230529,Sat Apr 14 14:00:00 +0000 2018,You’re invited to Country Music's Party of the Year®! Here's everything you need to know before watching the 53rd… https://t.co/Xr4iamFD7t,0.4574,0.136,0.0,0.864,88
+CBS,984922587019886598,Fri Apr 13 22:33:38 +0000 2018,Get excited! @NCIS_CBS has been renewed for Season 16. https://t.co/JnL0D0vMsV,0.4003,0.23,0.0,0.77,89
+CBS,984914748905934848,Fri Apr 13 22:02:29 +0000 2018,What goes into putting on an extraordinary show like the 53rd #ACMawards? Head behind the scenes with the executive… https://t.co/2sFRfYNAku,0.3612,0.116,0.0,0.884,90
+CBS,984911577563348992,Fri Apr 13 21:49:53 +0000 2018,Enjoy this #FlashbackFriday revisiting @ThomasRhett @KaceyMusgraves and more of country's biggest names for their f… https://t.co/cnCQBnP1xI,0.4939,0.176,0.0,0.824,91
+CBS,984882545501257728,Fri Apr 13 19:54:31 +0000 2018,"Host of the 53rd #ACMawards @reba is ready for ""family, friends, and getting together"" this Sunday! https://t.co/y25ZipnL32",0.7088,0.282,0.0,0.718,92
+CBS,984850371297271809,Fri Apr 13 17:46:40 +0000 2018,It's almost time for Broadway's Biggest Night! @katharinemcphee and @leslieodomjr are set to announce nominations f… https://t.co/oHbuSD5ijc,0.0,0.0,0.0,1.0,93
+CBS,984838174160568320,Fri Apr 13 16:58:12 +0000 2018,"In two days, Vocal Group Of The Year nominee @ladyantebellum will be serenading fans from the 53rd #ACMawards stage… https://t.co/ku9cnef29x",0.0,0.0,0.0,1.0,94
+CBS,984536638104649728,Thu Apr 12 21:00:00 +0000 2018,"In just a few days, country superstar @KeithUrban will take center stage with @juliamichaels to perform his new sin… https://t.co/he6TsePMgA",0.0,0.0,0.0,1.0,95
+CBS,984506448356040707,Thu Apr 12 19:00:03 +0000 2018,Country star @MarenMorris lit up the stage in honor of @eltonofficial and she's about to belt it out again at the 5… https://t.co/OkGaL9MlB2,0.4939,0.127,0.0,0.873,96
+CBS,984492890951860224,Thu Apr 12 18:06:10 +0000 2018,"Comedian, actor, and global superstar @KevinHart4real will host CBS’ new TV competition TKO: TOTAL KNOCK OUT! Learn… https://t.co/0XfMAoakDM",0.4389,0.145,0.0,0.855,97
+CBS,984463391564546048,Thu Apr 12 16:08:57 +0000 2018,You may be surprised to learn some of your favorite TV stars have deep southern roots and a love for country music.… https://t.co/rCoNVI0qeT,0.8442,0.324,0.0,0.676,98
+CBS,984209335772262400,Wed Apr 11 23:19:26 +0000 2018,RT @TheTalkCBS: WATCH: @Reba McEntire AND @kelly_clarkson will be singing a duet together at the #ACMs! Check out which song they chose 👍 h…,0.0,0.0,0.0,1.0,99
+CBS,984195548587503616,Wed Apr 11 22:24:38 +0000 2018,"This Sunday night, @carrieunderwood will be taking the stage to share her soon-to-be-released single live at the 53… https://t.co/NRS6RAaKZK",0.296,0.109,0.0,0.891,100
+CNN,1023615470987956225,Sun Jul 29 17:05:20 +0000 2018,This man built a floating bicycle so he could clean trash from a river in order to raise awareness about plastic po… https://t.co/s70T5FO2pZ,0.4522,0.129,0.0,0.871,1
+CNN,1023612471070916608,Sun Jul 29 16:53:25 +0000 2018,Trump's 2020 campaign denies reports that it is producing flags in China https://t.co/OoiPiKjcFf https://t.co/FlJ4efPygH,-0.4215,0.0,0.177,0.823,2
+CNN,1023609316111261697,Sun Jul 29 16:40:53 +0000 2018,"Trump lawyer Rudy Giuliani once praised Michael Cohen as 'honest,' but now says Cohen has 'lied all his life'… https://t.co/AuzdI38OLV",-0.3182,0.089,0.145,0.766,3
+CNN,1023606880457957378,Sun Jul 29 16:31:12 +0000 2018,What you need to know about 'stand your ground' laws https://t.co/ouj4Dp8ots https://t.co/cd2fY6FhNZ,0.0,0.0,0.0,1.0,4
+CNN,1023603218914439168,Sun Jul 29 16:16:39 +0000 2018,"The United Nations has verified 7,000 cases of children either killed or maimed in Syria's seven-year war, but says… https://t.co/5DDdEc5z8S",-0.5106,0.079,0.216,0.705,5
+CNN,1023600052202336257,Sun Jul 29 16:04:04 +0000 2018,Palestinian teen activist Ahed Tamimi has been released from an Israeli prison after serving an 8-month prison sent… https://t.co/AvPuJbaTDm,-0.765,0.0,0.28,0.72,6
+CNN,1023597581237149698,Sun Jul 29 15:54:15 +0000 2018,5 metrics that suggest Democrats are poised for big wins 100 days to the midterms | Analysis by @ForecasterEnten… https://t.co/SEzQTXjMmZ,0.6908,0.263,0.0,0.737,7
+CNN,1023594014266851328,Sun Jul 29 15:40:05 +0000 2018,"A manhunt is underway for two suspects accused of killing three people and injuring seven others in New Orleans, th… https://t.co/CNYraRdA9T",-0.8402,0.0,0.346,0.654,8
+CNN,1023591865654816768,Sun Jul 29 15:31:32 +0000 2018,"On this day in 1958, President Dwight D. Eisenhower signed the National Aeronautics and Space Act, which establishe… https://t.co/TpVjqvFWso",0.0,0.0,0.0,1.0,9
+CNN,1023587746424741889,Sun Jul 29 15:15:10 +0000 2018,There are 100 days to the midterm election. Here's what to watch: https://t.co/yqi6ZX3a41 https://t.co/PgkWJY6vbC,0.0,0.0,0.0,1.0,10
+CNN,1023584238459936768,Sun Jul 29 15:01:14 +0000 2018,Civil rights icon and Georgia congressman Rep. John Lewis has been hospitalized but is expected to be released late… https://t.co/Y8KpPUJefT,0.0,0.0,0.0,1.0,11
+CNN,1023584207380070400,Sun Jul 29 15:01:06 +0000 2018,A clinical trial run by UCLA is testing a potentially pioneering form of immunotherapy that could turn a patient's… https://t.co/ILFbFlqJXL,0.0,0.0,0.0,1.0,12
+CNN,1023582968059768832,Sun Jul 29 14:56:11 +0000 2018,"2018 is on pace to be the fourth hottest year on record, according to data from the National Oceanic and Atmospheri… https://t.co/K6FMntJR1t",0.0,0.0,0.0,1.0,13
+CNN,1023578921277816832,Sun Jul 29 14:40:06 +0000 2018,Recep Tayyip Erdogan denies that Turkey has agreed to free a detained American pastor as part of a possible deal wi… https://t.co/iiiT1mdcfX,-0.0258,0.201,0.204,0.595,14
+CNN,1023576408545812496,Sun Jul 29 14:30:07 +0000 2018,A 12-year-old boy who can't speak wrote a book with his eyes https://t.co/GmvT6OSsUY https://t.co/t1w6FJR6iN,0.0,0.0,0.0,1.0,15
+CNN,1023574485344178176,Sun Jul 29 14:22:29 +0000 2018,President Trump threatens to push the government into shutdown ahead of the coming appropriations deadline if Congr… https://t.co/F4KsOZEbdv,-0.3818,0.0,0.133,0.867,16
+CNN,1023572878887927814,Sun Jul 29 14:16:06 +0000 2018,What sparks your curiosity? See how Steve Jobs and other curious entrepreneurs revolutionized our world through tec… https://t.co/J3649I6KqG,0.3182,0.119,0.0,0.881,17
+CNN,1023568884631257088,Sun Jul 29 14:00:13 +0000 2018,Palestinian teenage activist Ahed Tamimi has been freed from an Israeli prison after serving an eight-month prison… https://t.co/KkXsei7Zl0,-0.1531,0.123,0.15,0.727,18
+CNN,1023565523165081601,Sun Jul 29 13:46:52 +0000 2018,The former mayor of New Orleans Mitch Landrieu says he is a “radical centrist”: “I don’t think abolishing ICE is a… https://t.co/t7L2vJiZPw,0.0,0.0,0.0,1.0,19
+CNN,1023565328406794240,Sun Jul 29 13:46:05 +0000 2018,Three new polls show bad news for Republicans ahead of the midterm elections https://t.co/xbfpqVTIp4 https://t.co/3fCfLLjM2d,-0.5423,0.0,0.2,0.8,20
+CNN,1023493582886461440,Sun Jul 29 09:01:00 +0000 2018,This man built a floating bicycle so he could clean trash from a river in order to raise awareness about plastic po… https://t.co/vXuMxRi7zo,0.4522,0.129,0.0,0.871,21
+CNN,1023493397900918786,Sun Jul 29 09:00:16 +0000 2018,"We haven't seen their faces. We don't know their names. We only know a number: 711.
+
+That's how many immigrant kids… https://t.co/4SSojsVPJm",0.0772,0.061,0.0,0.939,22
+CNN,1023486036121280512,Sun Jul 29 08:31:01 +0000 2018,"""A huge statue of Jeff Goldblum is not something you see in London every day."" A 25-foot, 330-pound statue of Goldb… https://t.co/mnQoDJs0u1",0.3182,0.103,0.0,0.897,23
+CNN,1023485810107133952,Sun Jul 29 08:30:07 +0000 2018,"The United Nations has verified 7,000 cases of children either killed or maimed in Syria's seven-year war, but says… https://t.co/OrCG9tPiU5",-0.5106,0.079,0.216,0.705,24
+CNN,1023478512643203072,Sun Jul 29 08:01:07 +0000 2018,Coke is raising soda prices because of aluminum tariffs https://t.co/y0dPF73sXZ https://t.co/RyRcEwyR2z,0.0,0.0,0.0,1.0,25
+CNN,1023470933187616768,Sun Jul 29 07:31:00 +0000 2018,"Watch the moment thousands of sardines jumped out of the water in a fishing port in Taipei, Taiwan… https://t.co/OpD9bbV19r",0.0,0.0,0.0,1.0,26
+CNN,1023470732808998913,Sun Jul 29 07:30:12 +0000 2018,Police have responded to at least 125 calls in the past five years alleging sex offenses at shelters that house imm… https://t.co/biWbKrI5Kj,-0.3612,0.0,0.106,0.894,27
+CNN,1023463403082395648,Sun Jul 29 07:01:04 +0000 2018,Here's how to help the victims of the Greece wildfires https://t.co/9MXfHiMdF5 https://t.co/S7Ung3gltf,0.1027,0.18,0.153,0.667,28
+CNN,1023455833810763778,Sun Jul 29 06:31:00 +0000 2018,"It’s like a real-life Iron Man. This flying suit was built using 3D printed parts, specialist electronics and five… https://t.co/jbrP6eydHC",0.3612,0.122,0.0,0.878,29
+CNN,1023455610522755072,Sun Jul 29 06:30:07 +0000 2018,"A teen broke into a home in California shortly after midnight and woke a sleeping couple to ask to use their Wi-Fi,… https://t.co/YIxTY6vcQf",-0.4215,0.0,0.128,0.872,30
+CNN,1023448301855756288,Sun Jul 29 06:01:04 +0000 2018,"Three former US secretaries of state -- Madeleine Albright, Colin Powell and Hillary Clinton -- will appear togethe… https://t.co/AdlYPx1TDn",0.0,0.0,0.0,1.0,31
+CNN,1023440734458802177,Sun Jul 29 05:31:00 +0000 2018,"This is Japan's art island, where the museums were custom-built to exhibit famous works https://t.co/sjvAj0BSK3 https://t.co/OK5wzp8Cp4",0.0,0.0,0.0,1.0,32
+CNN,1023440512269934594,Sun Jul 29 05:30:07 +0000 2018,A church put Jesus in a cage to protest immigration policies. He was replaced with a mirror. https://t.co/N24WEas0Ii https://t.co/kqxKasstG2,-0.25,0.0,0.118,0.882,33
+CNN,1023433211790217217,Sun Jul 29 05:01:06 +0000 2018,A new study supports what most dog owners already know: Your pup rushes to your side faster than usual if he or she… https://t.co/1oDgAQA5D5,0.3612,0.102,0.0,0.898,34
+CNN,1023425634574319616,Sun Jul 29 04:31:00 +0000 2018,These aerial photos show human impact on Earth https://t.co/QuBdlOCJJ8 https://t.co/wTvn7Twd96,0.0,0.0,0.0,1.0,35
+CNN,1023425408929284096,Sun Jul 29 04:30:06 +0000 2018,"Pope Francis has accepted the resignation of Cardinal Theodore McCarrick, who led the Archdiocese of Washington, af… https://t.co/j16qgiK4Sl",-0.0258,0.103,0.108,0.788,36
+CNN,1023425132738564096,Sun Jul 29 04:29:00 +0000 2018,Civil rights icon and Georgia congressman Rep. John Lewis has been hospitalized but is expected to be released Sund… https://t.co/fx1hQ5XQei,0.0,0.0,0.0,1.0,37
+CNN,1023418108541845504,Sun Jul 29 04:01:05 +0000 2018,"Putin gave Trump a soccer ball during a news conference in Helsinki, Finland -- and the ball may have contained a t… https://t.co/mz66EOE4UI",0.0,0.0,0.0,1.0,38
+CNN,1023415176320765952,Sun Jul 29 03:49:26 +0000 2018,"At least three people are dead and seven injured after a shooting in New Orleans, city police spokesman says https://t.co/w8yKRL7Ui5",-0.7906,0.0,0.292,0.708,39
+CNN,1023414087085182976,Sun Jul 29 03:45:07 +0000 2018,"How a small-town French psychic became the face -- and, her family says, a victim -- of a $200 million scam… https://t.co/B73KZbED0O",-0.2732,0.0,0.104,0.896,40
+CNN,1023271897268674560,Sat Jul 28 18:20:06 +0000 2018,"Northern California's deadly Carr Fire nearly doubled in size to 80,906 acres Saturday as authorities searched for… https://t.co/RRihhtpoFo",-0.34,0.0,0.124,0.876,41
+CNN,1023268825314336769,Sat Jul 28 18:07:54 +0000 2018,"Pope Francis has accepted the resignation of Cardinal Theodore McCarrick, who led the Archdiocese of Washington, af… https://t.co/JTA4MctcKE",-0.0258,0.103,0.108,0.788,42
+CNN,1023264329347547138,Sat Jul 28 17:50:02 +0000 2018,"""She doesn't want to let go."" A mourning orca mom carried her dead baby for days through the ocean… https://t.co/TxjQGR3SqJ",-0.8137,0.0,0.345,0.655,43
+CNN,1023261843199021056,Sat Jul 28 17:40:09 +0000 2018,"Disney has announced the cast for 'Star Wars: Episode IX,' the next chapter from the galaxy far, far away -- and it… https://t.co/gO7K2xE0RB",-0.5574,0.0,0.141,0.859,44
+CNN,1023259349211328519,Sat Jul 28 17:30:14 +0000 2018,"2018 is on pace to be the fourth hottest year on record, according to data from the National Oceanic and Atmospheri… https://t.co/GbLcnbvugi",0.0,0.0,0.0,1.0,45
+CNN,1023256801402347525,Sat Jul 28 17:20:07 +0000 2018,"A North Miami Beach police officer arrested after allegedly kicking a pregnant woman in the stomach has been fired,… https://t.co/BFoRa5Kgo1",-0.4767,0.0,0.154,0.846,46
+CNN,1023254280973824001,Sat Jul 28 17:10:06 +0000 2018,What was meant to be a celebratory tour of the Midwest on Thursday turned sour for President Trump when he learned… https://t.co/75MstTZIJ7,0.0,0.0,0.0,1.0,47
+CNN,1023251769487486977,Sat Jul 28 17:00:07 +0000 2018,"Women turned out in force in Pakistan's general election this week, shoving aside often decades of patriarchy and t… https://t.co/i8yP6960f1",0.0,0.0,0.0,1.0,48
+CNN,1023251004341379074,Sat Jul 28 16:57:05 +0000 2018,"Listen to the soothing sounds of the sun. Scientists mapped vibrations that form the ""low, pulsing hum of our star'… https://t.co/5BvhTJjD4x",0.3182,0.103,0.0,0.897,49
+CNN,1023250495652225029,Sat Jul 28 16:55:03 +0000 2018,"We haven't seen their faces. We don't know their names. We only know a number: 711.
+
+That's how many immigrant kids… https://t.co/LohivJ3I11",0.0772,0.061,0.0,0.939,50
+CNN,1023247039625191424,Sat Jul 28 16:41:19 +0000 2018,"""I think a lot of people are tired of hearing ... the adults talk"": NBA star Carmelo Anthony tells @VanJones68 that… https://t.co/qV0YO4kvnW",-0.4404,0.0,0.127,0.873,51
+CNN,1023246177305849856,Sat Jul 28 16:37:54 +0000 2018,Eric Holder says he's interested in being president. And he thinks he has what it takes. https://t.co/xZUmQKJvig https://t.co/7GiWKLxc3N,0.4019,0.137,0.0,0.863,52
+CNN,1023240972451364864,Sat Jul 28 16:17:13 +0000 2018,"Inside Alaska's battles over land, sea and life https://t.co/JC4yFR3jCS https://t.co/zMCJ60lY97",-0.3818,0.0,0.224,0.776,53
+CNN,1023236966387777538,Sat Jul 28 16:01:18 +0000 2018,"Ximena Barreto, a far-right pundit appointed to a communications post at the Department of Health and Human Service… https://t.co/S0qGNi2sBV",0.0,0.0,0.0,1.0,54
+CNN,1023235094541164546,Sat Jul 28 15:53:51 +0000 2018,"Growing homophobia will fuel the HIV epidemic, experts fear https://t.co/aCsZoWXygT",-0.3612,0.132,0.248,0.62,55
+CNN,1023231890394939392,Sat Jul 28 15:41:08 +0000 2018,"How a small-town French psychic became the face -- and, her family says, a victim -- of a $200 million scam… https://t.co/ta3MY4ZMmg",-0.2732,0.0,0.104,0.896,56
+CNN,1023229897316200449,Sat Jul 28 15:33:12 +0000 2018,"'Recovering addict' secretly treats a table of EMTs to breakfast, bringing them to tears https://t.co/SQi6Mr5fKi https://t.co/yuBxc34RzI",-0.2263,0.0,0.119,0.881,57
+CNN,1023227223518666752,Sat Jul 28 15:22:35 +0000 2018,A 12-year-old boy who can't speak wrote a book with his eyes https://t.co/eBAdQUz4AR https://t.co/rpWg9UT3ly,0.0,0.0,0.0,1.0,58
+CNN,1023224073608998918,Sat Jul 28 15:10:04 +0000 2018,Demi Lovato remains in the hospital following an apparent drug overdose at her home on Tuesday… https://t.co/qxU3vvduIv,0.0,0.0,0.0,1.0,59
+CNN,1023222363716898817,Sat Jul 28 15:03:16 +0000 2018,"The longest total lunar eclipse of the century concluded Friday night, showcasing a blood moon for most of the East… https://t.co/6A06j2CH3N",0.0,0.0,0.0,1.0,60
+CNN,1023010990697443331,Sat Jul 28 01:03:21 +0000 2018,"""She doesn't want to let go."" A mourning orca mom carried her dead baby for days through the ocean… https://t.co/PC7ucFsSOK",-0.8137,0.0,0.345,0.655,61
+CNN,1023007901013696519,Sat Jul 28 00:51:04 +0000 2018,"New York authorities have moved to oust Spectrum, the state's largest TV and internet service provider, claiming th… https://t.co/dkc1H678oO",0.0,0.0,0.0,1.0,62
+CNN,1023005390294921217,Sat Jul 28 00:41:06 +0000 2018,"This concrete (yes, concrete) is going high-tech https://t.co/JdDng0Bqmt https://t.co/Ijc7R29kGX",0.0,0.0,0.0,1.0,63
+CNN,1023003457115045889,Sat Jul 28 00:33:25 +0000 2018,The best travel photos of 2018 (so far) https://t.co/BWQLgHdgV6 https://t.co/fBvZ3TnRwC,0.6369,0.318,0.0,0.682,64
+CNN,1023000354064093185,Sat Jul 28 00:21:05 +0000 2018,Experts say algae is the food of the future. Here's why. https://t.co/JtUSUCgz2z https://t.co/OgOn7R8jAs,0.0,0.0,0.0,1.0,65
+CNN,1022998402433523713,Sat Jul 28 00:13:20 +0000 2018,"RT @OutFrontCNN: ""These are allegations that are very, very heavily corroborated ... they're backed through paper trails and multiple witne…",0.0258,0.055,0.0,0.945,66
+CNN,1022997967005859840,Sat Jul 28 00:11:36 +0000 2018,CNN's Jeanne Moos reports on why one part of a recording of President Trump has gotten so much attention… https://t.co/rJ9z2GYxfI,0.0,0.0,0.0,1.0,67
+CNN,1022995918730219521,Sat Jul 28 00:03:28 +0000 2018,"Nigeria, Africa's most populous nation, will be the first on the continent to receive Google's free public Wi-Fi se… https://t.co/mphsRW4jYU",0.5106,0.148,0.0,0.852,68
+CNN,1022992797312450560,Fri Jul 27 23:51:03 +0000 2018,A good end to a bad week for President Trump | Analysis by @CillizzaCNN https://t.co/T09W1sZr09 https://t.co/4UA35GKPJd,-0.1531,0.167,0.201,0.632,69
+CNN,1022990283720585216,Fri Jul 27 23:41:04 +0000 2018,A clinical trial run by UCLA is testing a potentially pioneering form of immunotherapy that could turn a patient's… https://t.co/qofqzu96Oj,0.0,0.0,0.0,1.0,70
+CNN,1022988077625761792,Fri Jul 27 23:32:18 +0000 2018,A new study released this week links a parasite that comes from cat feces with the lack of fear and increased risk-… https://t.co/OZxSGJeDTw,-0.5267,0.082,0.215,0.703,71
+CNN,1022986524739219456,Fri Jul 27 23:26:08 +0000 2018,Six women tell The New Yorker that CBS chief Les Moonves sexually harassed them https://t.co/IXCu3LNKel https://t.co/fi2B9B5UnY,-0.5423,0.0,0.189,0.811,72
+CNN,1022985261398073349,Fri Jul 27 23:21:07 +0000 2018,Sponsors are ditching the Kuwaiti Instagram influencer who complained about labor laws requiring a weekly day off f… https://t.co/twNLQ2Hfck,-0.4019,0.0,0.137,0.863,73
+CNN,1022982762083635200,Fri Jul 27 23:11:11 +0000 2018,"Miyako Chiyo, the oldest person in Japan and the world, died Sunday at age 117, according to the country's Health M… https://t.co/3nAGXU8EGc",-0.5574,0.0,0.146,0.854,74
+CNN,1022980887980515330,Fri Jul 27 23:03:44 +0000 2018,"RT @CNNSitRoom: Giuliani:
+July 8: If Cohen believes it’s in his best to cooperate, God bless him, he should cooperate. I do not expect him…",0.8442,0.302,0.0,0.698,75
+CNN,1022980233283162113,Fri Jul 27 23:01:08 +0000 2018,A zoo is accused of painting a donkey and passing it off as a zebra https://t.co/hsUiqAICZv https://t.co/Vf4mHmsoCB,-0.296,0.0,0.145,0.855,76
+CNN,1022977705531387906,Fri Jul 27 22:51:05 +0000 2018,Disneyland agrees to pay its workers $15 an hour https://t.co/2zuQo7PsAh https://t.co/ypfM8JxHCt,0.1027,0.148,0.115,0.738,77
+CNN,1022976039306371074,Fri Jul 27 22:44:28 +0000 2018,"LIVE NOW: Anderson Cooper Full Circle, a daily interactive news show airing on Facebook Watch… https://t.co/XZIvt2cPlu",0.0,0.0,0.0,1.0,78
+CNN,1022975192652570624,Fri Jul 27 22:41:06 +0000 2018,Coke is raising soda prices because of aluminum tariffs https://t.co/fFunXkCfq6 https://t.co/VsYY6yms9O,0.0,0.0,0.0,1.0,79
+CNN,1022972684446171136,Fri Jul 27 22:31:08 +0000 2018,Scientists are proposing genetically engineering the white-footed mice of Martha's Vineyard and Nantucket to rid th… https://t.co/yB5jIR8pvV,0.0,0.0,0.0,1.0,80
+CNN,1022801340228149250,Fri Jul 27 11:10:16 +0000 2018,"5 things for Friday:
+
+- Russia investigation
+- North Korea
+- Family separations
+- Pakistan election
+- Facebook… https://t.co/Oe9qI7APy4",0.0,0.0,0.0,1.0,81
+CNN,1022800515288190976,Fri Jul 27 11:07:00 +0000 2018,11 endangered rhinos were moved to start a new population. 10 died https://t.co/g0KVse0sPm https://t.co/1Q2hdagc1X,-0.5574,0.0,0.231,0.769,82
+CNN,1022796720177127424,Fri Jul 27 10:51:55 +0000 2018,"Miyako Chiyo, the oldest person in Japan and the world, died Sunday at age 117, according to the country's Health M… https://t.co/EW7sfa5rBb",-0.5574,0.0,0.146,0.854,83
+CNN,1022794965569744897,Fri Jul 27 10:44:57 +0000 2018,Facebook removes four videos on pages operated by Alex Jones and InfoWars https://t.co/AbI7EpLln0 https://t.co/Lwlw18W8kN,0.0,0.0,0.0,1.0,84
+CNN,1022792767691472896,Fri Jul 27 10:36:13 +0000 2018,Consumer groups blasted Education Secretary Betsy DeVos this week over a new rule they say would make it harder for… https://t.co/sQX5mriSyc,0.0,0.0,0.0,1.0,85
+CNN,1022791002560577536,Fri Jul 27 10:29:12 +0000 2018,How DNA and other methods are used in identifying deceased US troops https://t.co/dJxFMGQwLH https://t.co/h7PMfLaD2J,0.0,0.0,0.0,1.0,86
+CNN,1022789582855782400,Fri Jul 27 10:23:33 +0000 2018,The best travel photos of 2018 (so far) https://t.co/rKraZZ6eeB https://t.co/cvUz4ZqeUK,0.6369,0.318,0.0,0.682,87
+CNN,1022787700208951296,Fri Jul 27 10:16:04 +0000 2018,Twitter made Trump. Will it un-make him? https://t.co/j0FM4iqyxo https://t.co/oal6ZBkAkE,0.0,0.0,0.0,1.0,88
+CNN,1022785883689426944,Fri Jul 27 10:08:51 +0000 2018,Facebook removes four videos on pages operated by Alex Jones and InfoWars https://t.co/9Iwa59NPxH https://t.co/AgWyqdhtuT,0.0,0.0,0.0,1.0,89
+CNN,1022784078213533697,Fri Jul 27 10:01:41 +0000 2018,"The rise of ISIS in Iraq and Syria reflected a craving for social order that underlies many authoritarian regimes,… https://t.co/n0dtV1ElIe",0.0,0.0,0.0,1.0,90
+CNN,1022782281910575104,Fri Jul 27 09:54:33 +0000 2018,"An unpublished chapter of ""The Autobiography of Malcolm X"" that had been out of the public eye for decades has now… https://t.co/R76QgZymSv",0.0,0.0,0.0,1.0,91
+CNN,1022780584647708672,Fri Jul 27 09:47:48 +0000 2018,"2017 was the deadliest year for environmental activists on record, a new report says https://t.co/zBwYLCV8Rm",0.0,0.0,0.0,1.0,92
+CNN,1022778857567477760,Fri Jul 27 09:40:56 +0000 2018,Nemo and Dory would be proud https://t.co/ZUbpHmcw8b,0.4767,0.341,0.0,0.659,93
+CNN,1022777071712522240,Fri Jul 27 09:33:50 +0000 2018,The Moscow metro is probably fancier than your city's subway https://t.co/vNrfIGUOP0 https://t.co/uI5zREVpVI,0.0,0.0,0.0,1.0,94
+CNN,1022774009732247553,Fri Jul 27 09:21:40 +0000 2018,11 endangered rhinos were moved to start a new population. 10 died https://t.co/lKe6pQ8s19 https://t.co/mPxdfP4o7b,-0.5574,0.0,0.231,0.769,95
+CNN,1022771471410782208,Fri Jul 27 09:11:35 +0000 2018,"Cuba's new constitution could:
+• Allow same-sex marriage
+• Eliminate the term ""communism""
+• Open a path to owning p… https://t.co/7U5vth6m5Q",0.2263,0.106,0.0,0.894,96
+CNN,1022768315981287424,Fri Jul 27 08:59:03 +0000 2018,Michael Cohen just dropped a collusion bombshell in the Russia investigation | Analysis by @CillizzaCNN https://t.co/EpnTwebDFF,0.0,0.0,0.0,1.0,97
+CNN,1022768165246230529,Fri Jul 27 08:58:27 +0000 2018,Facebook should pay people for their data | @CNNOpinion https://t.co/pI7nvylaWI,-0.1027,0.0,0.149,0.851,98
+CNN,1022764837846310912,Fri Jul 27 08:45:14 +0000 2018,Michelle Williams has revealed news of her marriage to singer-songwriter Phil Elverum in an interview with Vanity F… https://t.co/n04L3axVRf,-0.2263,0.0,0.095,0.905,99
+CNN,1022762274786869249,Fri Jul 27 08:35:02 +0000 2018,Here's how you can watch the blood moon lunar eclipse https://t.co/U6Eg8tCpB4,0.0,0.0,0.0,1.0,100
+FoxNews,1023615888661139456,Sun Jul 29 17:07:00 +0000 2018,"A sheep jumps over a path at the annual sheep festival near the Gemmipass, between Kandersteg and Leukerbad, Switze… https://t.co/6LajRsvThu",0.4939,0.158,0.0,0.842,1
+FoxNews,1023614131360944128,Sun Jul 29 17:00:01 +0000 2018,"TODAY: Don't miss Rudy Giuliani, President @realDonaldTrump's attorney, on @FoxNewsSunday. Tune in to Fox News Chan… https://t.co/eku28b0oni",0.1139,0.083,0.0,0.917,2
+FoxNews,1023612770196090881,Sun Jul 29 16:54:36 +0000 2018,.@newtgingrich: @POTUS’s GDP achieves Mission Impossible (and shocks his critics) https://t.co/R5usUBMigP,-0.3818,0.0,0.206,0.794,3
+FoxNews,1023610351881834496,Sun Jul 29 16:45:00 +0000 2018,".@PeterLumaj: ""Socialism becomes a big prison system at the end."" https://t.co/p4E08RrKZH",-0.5106,0.0,0.268,0.732,4
+FoxNews,1023610071404765187,Sun Jul 29 16:43:53 +0000 2018,Turkey resists sanctions threat from U.S. over American pastor. https://t.co/HdRSPFjoJb https://t.co/NRq5R6MXQM,-0.5267,0.0,0.254,0.746,5
+FoxNews,1023608677108985858,Sun Jul 29 16:38:21 +0000 2018,"NEWS ALERT: 14 killed, over 160 injured in Indonesia's 6.4 magnitude earthquake. https://t.co/lUbQskmfql https://t.co/AeQvfBGPjt",-0.6448,0.139,0.341,0.521,6
+FoxNews,1023608087356137472,Sun Jul 29 16:36:00 +0000 2018,".@MichelleMalkin: ""The biggest enemies here are not necessarily the open-borders Dems. They're doing what they alwa… https://t.co/toktnJUaTt",-0.4939,0.0,0.167,0.833,7
+FoxNews,1023605948122841088,Sun Jul 29 16:27:30 +0000 2018,Five people now reported dead in Northern California wildfire. https://t.co/IpM0zi5wrl https://t.co/O1xD8KcXMS,-0.6486,0.0,0.301,0.699,8
+FoxNews,1023605822461554690,Sun Jul 29 16:27:00 +0000 2018,".@Kathy4Truth: ""If you don't like the laws that ICE is carrying out, change it."" https://t.co/fXhyruQ2rn",-0.2755,0.0,0.131,0.869,9
+FoxNews,1023602802352947200,Sun Jul 29 16:15:00 +0000 2018,Report: US Therapists See Increase in Patients With 'Trump Anxiety Disorder' https://t.co/juMOo5pD46 https://t.co/9TA0vXyycH,-0.2732,0.138,0.263,0.599,10
+FoxNews,1023601661468725248,Sun Jul 29 16:10:28 +0000 2018,"This morning, President @realDonaldTrump celebrated positive economic news. https://t.co/X9K8dyTdNW https://t.co/yCixsRcwGA",0.8074,0.477,0.0,0.523,11
+FoxNews,1023600789019738112,Sun Jul 29 16:07:00 +0000 2018,TODAY: Treasury Secretary @stevenmnuchin1 sits down with Chris Wallace for an exclusive interview on @FoxNewsSunday… https://t.co/aZLiHYpvUl,0.3182,0.191,0.0,0.809,12
+FoxNews,1023597517252878342,Sun Jul 29 15:54:00 +0000 2018,".@LindseyGrahamSC: ""I've never been more pleased with @POTUS than I am right now regarding Iran."" #SundayFutures… https://t.co/jBaqvVcJto",-0.3865,0.0,0.149,0.851,13
+FoxNews,1023595504297336833,Sun Jul 29 15:46:00 +0000 2018,".@DevinNunes: ""There's a stall game going on at DOJ and FBI - they're trying to stall as much they can hoping and b… https://t.co/CsMKD2taFd",0.0516,0.11,0.142,0.748,14
+FoxNews,1023592736161583105,Sun Jul 29 15:35:00 +0000 2018,".@LindseyGrahamSC: ""When it comes to Michael Cohen, you should be very suspicious of anything he says. He's on the… https://t.co/6f3eTyqhHC",-0.4201,0.0,0.128,0.872,15
+FoxNews,1023591845232869377,Sun Jul 29 15:31:27 +0000 2018,Confederate monuments report raises idea of changing Texas capital's name https://t.co/JWB5nbdIIM,0.0,0.0,0.0,1.0,16
+FoxNews,1023589469499191297,Sun Jul 29 15:22:01 +0000 2018,"TONIGHT: Don't miss ""Life, Liberty, &amp; Levin"" with @marklevinshow with special guest @AllenWest - Tune in at 10p ET… https://t.co/AGLpdJ7jdm",0.0946,0.181,0.121,0.698,17
+FoxNews,1023588246859771904,Sun Jul 29 15:17:10 +0000 2018,RT @EricShawnTV: Was the #MichaelCohen tape really doctored as Rudy Giuliani tells @FoxNews? Do you think Cohen would pull a Rosemary Woods…,0.0,0.0,0.0,1.0,18
+FoxNews,1023587703533854721,Sun Jul 29 15:15:00 +0000 2018,".@LindseyGrahamSC: ""The only way we've made any progress with North Korea is because Trump has been strong in the e… https://t.co/rA9DPVK8ss",0.7269,0.243,0.0,0.757,19
+FoxNews,1023586696196247552,Sun Jul 29 15:11:00 +0000 2018,".@DevinNunes: ""Clinton-paid-for dirt was used to get a warrant to spy on an American citizen using our secret count… https://t.co/pHuP6oQ6DG",-0.34,0.0,0.118,0.882,20
+FoxNews,1023573118072315905,Sun Jul 29 14:17:03 +0000 2018,".@VP: ""It's absolutely essential that we protect intellectual property from being stolen by interests in China.""… https://t.co/3S3dbrBV9w",0.5719,0.328,0.133,0.539,21
+FoxNews,1023572393263026176,Sun Jul 29 14:14:10 +0000 2018,".@VP Mike Pence: ""In the last year and a half, our administration has been faced with more filibusters called by… https://t.co/WjIPXr4NPf",0.0,0.0,0.0,1.0,22
+FoxNews,1023572135737008130,Sun Jul 29 14:13:08 +0000 2018,".@VP Mike Pence: ""It's remarkable to think all the progress that we've made in the last 18 months has been made in… https://t.co/IRO6ssUkWO",0.7506,0.234,0.0,0.766,23
+FoxNews,1023571488694259712,Sun Jul 29 14:10:34 +0000 2018,".@VP Mike Pence: ""We're going to renegotiate NAFTA in a way that's a win for working Americans in the city and on t… https://t.co/hHy1iVZIhf",0.5859,0.153,0.0,0.847,24
+FoxNews,1023571458981810177,Sun Jul 29 14:10:27 +0000 2018,.@HuntsmanAbby is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/6G7yH9N9Mr,0.0,0.0,0.0,1.0,25
+FoxNews,1023571197018210304,Sun Jul 29 14:09:25 +0000 2018,".@VP Mike Pence: ""@POTUS came into this administration with the belief that for too long Americans, our economy, ou… https://t.co/eFwXInCJ08",0.0,0.0,0.0,1.0,26
+FoxNews,1023570837222432768,Sun Jul 29 14:07:59 +0000 2018,".@VP Mike Pence: ""Now the United States and the EU are going to begin working toward a trade arrangement that has z… https://t.co/lDrimxhwZ8",0.4215,0.118,0.0,0.882,27
+FoxNews,1023570594971959296,Sun Jul 29 14:07:01 +0000 2018,".@VP Mike Pence: ""American exports were up by more than 9%, and our trade deficit was down by $50 billion.""… https://t.co/yvaifhCKRI",-0.4019,0.0,0.119,0.881,28
+FoxNews,1023570400255598597,Sun Jul 29 14:06:15 +0000 2018,".@VP Mike Pence: ""The best is yet to come."" #SundayFutures @MariaBartiromo https://t.co/tWzWabRfOJ",0.6369,0.276,0.0,0.724,29
+FoxNews,1023570211671355392,Sun Jul 29 14:05:30 +0000 2018,".@VP Mike Pence: ""In the last 2 administrations the economy grew by less than 2%. In the first 18 months of this ad… https://t.co/lZI6D1l3O7",0.0,0.0,0.0,1.0,30
+FoxNews,1023569806027616256,Sun Jul 29 14:03:53 +0000 2018,".@VP Mike Pence: ""3.7 million new jobs created since Election Day 2016 - I couldn't be more proud to serve alongsid… https://t.co/hgtwUEcJSU",-0.1952,0.088,0.122,0.79,31
+FoxNews,1023569473381588994,Sun Jul 29 14:02:34 +0000 2018,".@VP: ""It's a great day for America seeing the Second Quarter 4.1% growth."" #SundayFutures @MariaBartiromo https://t.co/oL3EiHNm7M",0.6249,0.227,0.0,0.773,32
+FoxNews,1023569128324571136,Sun Jul 29 14:01:11 +0000 2018,"RIGHT NOW on #SundayFutures, @MariaBartiromo's exclusive interview with @VP Mike Pence - Tune in to Fox News Channe… https://t.co/NY2UxsRaGW",0.128,0.081,0.0,0.919,33
+FoxNews,1023567280251314176,Sun Jul 29 13:53:51 +0000 2018,Confederate monuments report raises idea of changing Texas capital's name https://t.co/JWB5nbdIIM,0.0,0.0,0.0,1.0,34
+FoxNews,1023566702917943303,Sun Jul 29 13:51:33 +0000 2018,"RT @FoxNewsSunday: .@RudyGiuliani on Michael Cohen: ""The man is a pathological manipulator, liar.""",0.0,0.0,0.0,1.0,35
+FoxNews,1023566249287188481,Sun Jul 29 13:49:45 +0000 2018,Trump tweets he'd 'shut down' government if Democrats don't fund US-Mexico wall https://t.co/BZWBmREqAY,0.0,0.0,0.0,1.0,36
+FoxNews,1023562641606889472,Sun Jul 29 13:35:25 +0000 2018,".@ChrisStirewalt: “If you shut down the government when you control both houses of Congress and the White House, yo… https://t.co/jelFa5K5j4",0.0,0.0,0.0,1.0,37
+FoxNews,1023562536967258114,Sun Jul 29 13:35:00 +0000 2018,"“My wife and I are deeply moved and deeply honored to be able to be there when we bring our boys home.”
+
+TODAY: @VP… https://t.co/IJtg6L3gkD",0.624,0.151,0.0,0.849,38
+FoxNews,1023557794593685504,Sun Jul 29 13:16:09 +0000 2018,RT @FoxNewsSunday: .@stevenmnuchin1 on Farm Aid: The focus is trade not aid...the President is not willing to live with the status quo wher…,0.0,0.0,0.0,1.0,39
+FoxNews,1023557725316411392,Sun Jul 29 13:15:53 +0000 2018,RT @FoxNewsSunday: .@stevenmnuchin1: We specifically talked about Soy Beans but we specifically agreed we'd look at these other markets and…,0.3919,0.122,0.0,0.878,40
+FoxNews,1023463131740233728,Sun Jul 29 07:00:00 +0000 2018,"T.J. Rodgers: ""Guess what? You know, the guy came in. He said we have to lower taxes. We have to do this and that.… https://t.co/5SQnzgU7ec",-0.296,0.0,0.084,0.916,41
+FoxNews,1023461370384338945,Sun Jul 29 06:53:00 +0000 2018,"ADORABLE: One man snapped this sweet shot of two lovebirds riding the New York subway, tweeting  “If anyone recogni… https://t.co/LW8at4aogn",0.8143,0.292,0.0,0.708,42
+FoxNews,1023459357453897729,Sun Jul 29 06:45:00 +0000 2018,Veterans Advocate on Return of Korean War Remains: 'I Couldn't Be More Proud' https://t.co/3mPxwhB9MC https://t.co/fIhOgW9kjw,-0.7698,0.0,0.339,0.661,43
+FoxNews,1023457595607207936,Sun Jul 29 06:38:00 +0000 2018,Sanctuary cities ruling a setback for Justice Department https://t.co/0vfW2RRQef,0.5267,0.327,0.0,0.673,44
+FoxNews,1023455583230291968,Sun Jul 29 06:30:00 +0000 2018,".@DarrellIssa: ""We take for granted that @POTUS was going to make America great again financially."" #Cavuto https://t.co/X0TbijaZ7X",0.7269,0.289,0.0,0.711,45
+FoxNews,1023453820393684992,Sun Jul 29 06:23:00 +0000 2018,"On ""Justice,"" @JudgeJeanine commented on President @realDonaldTrump's impact on the economy. https://t.co/cdGupfgJnL",0.0,0.0,0.0,1.0,46
+FoxNews,1023451807048257536,Sun Jul 29 06:15:00 +0000 2018,".@RepTedYoho: ""It's amazing how many people are behind this president, including myself. He puts America first and… https://t.co/nfdglWZUcw",0.5859,0.183,0.0,0.817,47
+FoxNews,1023449793681473536,Sun Jul 29 06:07:00 +0000 2018,VIDEO: Neil Diamond performs 'Sweet Caroline' for Colorado firefighters https://t.co/ANAZqO269t,0.6597,0.403,0.0,0.597,48
+FoxNews,1023448035399888896,Sun Jul 29 06:00:01 +0000 2018,".@mercedesschlapp: ""We are in a historic moment in terms of our economic growth. I mean, this is the first time in… https://t.co/HzFCM6DBrW",0.3818,0.12,0.0,0.88,49
+FoxNews,1023446270533222405,Sun Jul 29 05:53:00 +0000 2018,.@dallascowboys quarterback @dak Prescott weighed in on the national anthem controversy surrounding the @NFL.… https://t.co/M3Wf966ybc,0.0,0.0,0.0,1.0,50
+FoxNews,1023444257334538240,Sun Jul 29 05:45:00 +0000 2018,Joe Peters: “Law enforcement has no better friend than President Trump.” https://t.co/SiHdL4bksD,0.5994,0.353,0.127,0.52,51
+FoxNews,1023442496221839361,Sun Jul 29 05:38:00 +0000 2018,Mama duck with 76 ducklings on Minnesota lake captured in stunning photos https://t.co/b89OE9G7eO,0.3818,0.178,0.0,0.822,52
+FoxNews,1023440482624520193,Sun Jul 29 05:30:00 +0000 2018,".@hogangidley45 on @POTUS' speech to steelworkers: ""I watched the tears stream down the faces of grown men...who to… https://t.co/fTZuemXCdj",-0.2263,0.0,0.095,0.905,53
+FoxNews,1023438721478287361,Sun Jul 29 05:23:00 +0000 2018,"A complete lunar eclipse can be seen in the sky over Marseille, France. This complete lunar eclipse is the longest… https://t.co/kTWCN2QTYx",0.0,0.0,0.0,1.0,54
+FoxNews,1023436707851579392,Sun Jul 29 05:15:00 +0000 2018,"Thomas Homan: ""There's been nobody that has done more for border security and public safety than President Trump.""… https://t.co/Hbi1Uazv26",0.6666,0.243,0.0,0.757,55
+FoxNews,1023434945954365440,Sun Jul 29 05:08:00 +0000 2018,The gang just as vicious as MS-13 but without the notoriety: Savage Trinitarios return to the spotlight after years… https://t.co/EEEuRSFubt,0.3549,0.14,0.076,0.784,56
+FoxNews,1023432933712060416,Sun Jul 29 05:00:00 +0000 2018,.@mercedesschlapp: “Former presidents have tried to bring these remains back and they have failed.” https://t.co/0RlLLbLuL4,0.0,0.0,0.0,1.0,57
+FoxNews,1023431674464546816,Sun Jul 29 04:55:00 +0000 2018,"'My babies are dead': Mom, family mourn for 2 kids, great-grandmother killed by Carr Fire in Northern California https://t.co/BCQRVdbfWg",-0.8658,0.0,0.393,0.607,58
+FoxNews,1023429732472381440,Sun Jul 29 04:47:17 +0000 2018,"Drug dog Sombra has already sniffed her way to high-profile drug busts, finding stashes hidden in suitcases, boats… https://t.co/TChAj7pcqN",0.0,0.0,0.0,1.0,59
+FoxNews,1023429157810651137,Sun Jul 29 04:45:00 +0000 2018,"“It gives you faith in humanity a little bit that there are good kids out there."" 
+
+Some Colorado kids took a break… https://t.co/U7Xysxegvo",0.6908,0.231,0.0,0.769,60
+FoxNews,1023315912118681600,Sat Jul 28 21:15:00 +0000 2018,Betty White reveals she has no plans to retire at age 96: 'I'm going to be in the saddle forever' https://t.co/jsCOyIRGOs,-0.296,0.0,0.099,0.901,61
+FoxNews,1023314724740587527,Sat Jul 28 21:10:17 +0000 2018,".@esaagar: ""The GDP number is something that the president and this White House are gonna be riding on probably for… https://t.co/e6y6gFnAz8",0.0772,0.061,0.0,0.939,62
+FoxNews,1023312990194618369,Sat Jul 28 21:03:23 +0000 2018,"Judge indicates Stormy Daniels' lawyer, Avenatti, unlikely to be gagged https://t.co/Y7KRPzMlsA",-0.3182,0.0,0.187,0.813,63
+FoxNews,1023310493400875009,Sat Jul 28 20:53:28 +0000 2018,North Korea has delivered the possible remains of 55 U.S. soldiers missing from the Korean War; @BryanLlenas report… https://t.co/6lcDlcHwSW,-0.7269,0.0,0.264,0.736,64
+FoxNews,1023309004368478208,Sat Jul 28 20:47:33 +0000 2018,"‘All In The Family,' ‘The Jeffersons,' ‘Good Times’ and ‘Maude’ to return to TV https://t.co/psRnquHF4p",0.0,0.0,0.0,1.0,65
+FoxNews,1023308514532446208,Sat Jul 28 20:45:36 +0000 2018,"RT @EricShawnTV: My Dad flew B-24's in #WW2 and C-47's in the #KoreanWar. He came back, but so many others did not. 7,700 are #MIA. I will…",0.0,0.0,0.0,1.0,66
+FoxNews,1023306858881269761,Sat Jul 28 20:39:01 +0000 2018,".@JohnJamesMI: ""Thank you, Mr. President, Mr. Vice President, for your support. I will not let you down in Washingt… https://t.co/cKBrvpct5o",0.6369,0.234,0.0,0.766,67
+FoxNews,1023305676989362176,Sat Jul 28 20:34:20 +0000 2018,"Dave Brown on reunification of migrant families: ""One child not reunited with his or her mom and dad is one too man… https://t.co/nUx6XTXD4U",0.0,0.0,0.0,1.0,68
+FoxNews,1023303651056599040,Sat Jul 28 20:26:17 +0000 2018,.@POTUS has ordered federal aid to California as raging wildfires prompt thousands of evacuations; @Jeff_Journalist… https://t.co/tClP3jE1eC,-0.5267,0.0,0.185,0.815,69
+FoxNews,1023303077485522945,Sat Jul 28 20:24:00 +0000 2018,"SUNDAY: Don't miss ""Life, Liberty, &amp; Levin"" with @marklevinshow with special guest @AllenWest - Tune in at 10p ET o… https://t.co/B5KrJh9xaN",0.0946,0.173,0.116,0.711,70
+FoxNews,1023301771320610816,Sat Jul 28 20:18:48 +0000 2018,".@RepLanceNJ7 on economic growth: ""I hope that we return to free trade because I think that's the way to sustain th… https://t.co/mdHEDPdfjQ",0.8316,0.328,0.0,0.672,71
+FoxNews,1023300713655558145,Sat Jul 28 20:14:36 +0000 2018,GOP lawmaker wants answers on FBI's alleged Southern Poverty Law Center ties https://t.co/rDvb9RVVMg,-0.5106,0.0,0.216,0.784,72
+FoxNews,1023300255910121472,Sat Jul 28 20:12:47 +0000 2018,".@ellisonbarber: ""The White House is loving the economy, they think it's great news for them but some economists sa… https://t.co/Rn7JsjOmjG",0.6124,0.217,0.0,0.783,73
+FoxNews,1023298353306763264,Sat Jul 28 20:05:14 +0000 2018,GDP growth: 4.1 percent. https://t.co/9t5I8m1i2Y,0.3818,0.394,0.0,0.606,74
+FoxNews,1023295471215947776,Sat Jul 28 19:53:46 +0000 2018,"Lawmakers struggle to decode Trump's 'secret' to deal with Russia, North Korea
+https://t.co/OusFvLlxRa",-0.3182,0.0,0.161,0.839,75
+FoxNews,1023294697115144195,Sat Jul 28 19:50:42 +0000 2018,Colorado man accused of stealing tractor led cops on chase before choking and biting police dog https://t.co/PeDlLWLjHR,-0.836,0.0,0.389,0.611,76
+FoxNews,1023294578839961600,Sat Jul 28 19:50:14 +0000 2018,"RT @EricShawnTV: I anchor at 5 pm EDT @FoxNews. Alicia Acuna @aacuna1 is with me, in for @ArthelNeville. Will the @POTUS @realDonaldTrump's…",0.0,0.0,0.0,1.0,77
+FoxNews,1023293196732956672,Sat Jul 28 19:44:44 +0000 2018,".@SenAlexander on car tariffs: ""Now that we've got a policy of where we're going, zero tariffs, it's time to get ri… https://t.co/rEa1kQEmzk",0.0,0.0,0.0,1.0,78
+FoxNews,1023291277239091200,Sat Jul 28 19:37:06 +0000 2018,"In this Thursday, July 26, 2018 photo, a structure burns as the Carr fire races along Highway 299 near Redding, Cal… https://t.co/oykORpjxbm",-0.34,0.0,0.107,0.893,79
+FoxNews,1023290553524531201,Sat Jul 28 19:34:14 +0000 2018,"Judge indicates Stormy Daniels' lawyer, Avenatti, unlikely to be gagged https://t.co/QVzFxh4PIR",-0.3182,0.0,0.187,0.813,80
+FoxNews,1023166413614317570,Sat Jul 28 11:20:57 +0000 2018,Homeless man applying for McDonald's job lands position with cop's help https://t.co/G1TlVduRhZ,0.4019,0.197,0.0,0.803,81
+FoxNews,1023161771899727873,Sat Jul 28 11:02:30 +0000 2018,Japanese baby with major hair goes viral https://t.co/sSijmQXXy2,0.0,0.0,0.0,1.0,82
+FoxNews,1023158988207259650,Sat Jul 28 10:51:26 +0000 2018,Mama duck with 76 ducklings on Minnesota lake captured in stunning photos https://t.co/b89OE9G7eO,0.3818,0.178,0.0,0.822,83
+FoxNews,1023158602201280514,Sat Jul 28 10:49:54 +0000 2018,"Prince George wears matching outfit with Prince William, 33 years later https://t.co/6eT2mRd5r6",0.0,0.0,0.0,1.0,84
+FoxNews,1023156795626479616,Sat Jul 28 10:42:44 +0000 2018,Joe Peters: “Law enforcement has no better friend than President Trump.” https://t.co/IP6oQClxVC,0.5994,0.353,0.127,0.52,85
+FoxNews,1023153417290764288,Sat Jul 28 10:29:18 +0000 2018,"Remains of US war dead retrieved from North Korea, White House says https://t.co/kjwDKWJ1Vw https://t.co/Wy1ZC6BFB1",-0.8481,0.0,0.406,0.594,86
+FoxNews,1023151714927632384,Sat Jul 28 10:22:32 +0000 2018,.@PMorici1: “The government has gotten out of the way and let the American people solve their own problems.” https://t.co/Bg9KFGPj9r,0.2023,0.091,0.0,0.909,87
+FoxNews,1023150947994877952,Sat Jul 28 10:19:29 +0000 2018,"Two Massachusetts police officers shot while investigating 'disturbance,' authorities say https://t.co/XNJ7Gr2UKa https://t.co/dsZnj9mwAa",0.0,0.0,0.0,1.0,88
+FoxNews,1023147468270329857,Sat Jul 28 10:05:40 +0000 2018,"Florida Gov. Rick Scott much wealthier than previously reported, data show https://t.co/EJEut9YktB",0.4939,0.225,0.0,0.775,89
+FoxNews,1023142625623371777,Sat Jul 28 09:46:25 +0000 2018,Brawl breaks out at Trump's new Walk of Fame star https://t.co/7rmLu4jHQo,0.4404,0.225,0.0,0.775,90
+FoxNews,1023139043029262336,Sat Jul 28 09:32:11 +0000 2018,"A complete lunar eclipse can be seen in the sky over Marseille, France. This complete lunar eclipse is the longest… https://t.co/P26oMT5VD9",0.0,0.0,0.0,1.0,91
+FoxNews,1023136730956754945,Sat Jul 28 09:23:00 +0000 2018,"""The policies that President Trump has been advancing...are actually working to revive this economy.""
+
+SUNDAY: @VP… https://t.co/LZe84jbJh1",0.34,0.13,0.0,0.87,92
+FoxNews,1023127168019128320,Sat Jul 28 08:45:00 +0000 2018,Mississippi officer fired after dashcam footage appears to show him using stun gun on handcuffed man. https://t.co/iNms64Asax,-0.7184,0.0,0.286,0.714,93
+FoxNews,1023123394718355456,Sat Jul 28 08:30:00 +0000 2018,".@WhiteHouseCEA Chair Kevin Hassett on the GDP growth report: ""Everything about the Trump agenda is working.""… https://t.co/wjDMW02VVV",0.3818,0.14,0.0,0.86,94
+FoxNews,1023115844216401921,Sat Jul 28 08:00:00 +0000 2018,Santa Barbara backpedals on jail time for plastic straw offenders. https://t.co/jSHFA70FiP,-0.3612,0.0,0.2,0.8,95
+FoxNews,1023109048785285120,Sat Jul 28 07:33:00 +0000 2018,Cops search hog farm for missing Iowa student Mollie Tibbetts as officials rule out potential suspects. https://t.co/9xrIP1UxAN,-0.5574,0.0,0.235,0.765,96
+FoxNews,1023104518836420609,Sat Jul 28 07:15:00 +0000 2018,Utah man tackles fleeing suspect 'like NFL hardest hits' to aid police officer. https://t.co/aHoZ1mGIKy,0.0772,0.15,0.132,0.719,97
+FoxNews,1023104518832062464,Sat Jul 28 07:15:00 +0000 2018,"Woman reportedly screamed 'no, no, no' before being pulled onto subway tracks in grisly murder-suicide. https://t.co/dhZeAR01wH",-0.6908,0.0,0.34,0.66,98
+FoxNews,1023100745057546240,Sat Jul 28 07:00:00 +0000 2018,San Francisco train conductor reportedly warns riders to watch 'for needles' amid 'needle litter' epidemic. https://t.co/njhZ7OfitZ,-0.1027,0.0,0.085,0.915,99
+FoxNews,1023096969110151168,Sat Jul 28 06:45:00 +0000 2018,Migrant families remain anxious following reunification. https://t.co/th9lsHbyXe,-0.25,0.0,0.25,0.75,100
